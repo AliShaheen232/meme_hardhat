@@ -1,0 +1,5002 @@
+[
+  {
+    "userAddress": "0x0A5359C3eE176D3bf38Ebf746C1ad3f062D0687B",
+    "amount": 8206,
+    "reward": 498
+  },
+  {
+    "userAddress": "0x4AB12c825115CbFA41B4aBBD1F4870aF32168d12",
+    "amount": 2373,
+    "reward": 449
+  },
+  {
+    "userAddress": "0x767d68fd69DA514cf4b43A4F26EDB590E3b1e50A",
+    "amount": 1611,
+    "reward": 954
+  },
+  {
+    "userAddress": "0xfac7280ff55825c591Dce2F7b137ABE8EdE93CBA",
+    "amount": 1192,
+    "reward": 740
+  },
+  {
+    "userAddress": "0x270cDb7B5118CC90e3FC6B5614f673DF1e988C32",
+    "amount": 5789,
+    "reward": 484
+  },
+  {
+    "userAddress": "0xB4B3928edd3Aa8d8917431F01c73D46524990FD9",
+    "amount": 4994,
+    "reward": 866
+  },
+  {
+    "userAddress": "0x9B645cd5Dd1B487cEFA5B703C83B916e126adA31",
+    "amount": 3208,
+    "reward": 468
+  },
+  {
+    "userAddress": "0x5144Aa541832688c7328219daBB74F57F8F5d448",
+    "amount": 3626,
+    "reward": 473
+  },
+  {
+    "userAddress": "0x327CF87dF1613B2FDaA44F6f26B91873a2079357",
+    "amount": 626,
+    "reward": 38
+  },
+  {
+    "userAddress": "0x924CF11634b8f6c863aA4FDab69C0e03E6BD97CD",
+    "amount": 6473,
+    "reward": 521
+  },
+  {
+    "userAddress": "0xC51C5c86c4F15179Ad4166A44B2E6e8BCC4Ad3aE",
+    "amount": 3690,
+    "reward": 289
+  },
+  {
+    "userAddress": "0xf88e1E053b35d723f6ac63c3bBF3e5C2E4868B97",
+    "amount": 4294,
+    "reward": 256
+  },
+  {
+    "userAddress": "0x7766fd042280B538D843b75D9EEDE1944Fa6181C",
+    "amount": 6228,
+    "reward": 146
+  },
+  {
+    "userAddress": "0x7aC6bf6b5d5731a8dfCb8752d6C3040841c8A100",
+    "amount": 2864,
+    "reward": 856
+  },
+  {
+    "userAddress": "0xdAb562C41b834d0c15023A67B05BA17f62f2d8E7",
+    "amount": 8481,
+    "reward": 607
+  },
+  {
+    "userAddress": "0x14e4A130Bb6B41b703d686F0e72A47a8F9EB02eA",
+    "amount": 4219,
+    "reward": 834
+  },
+  {
+    "userAddress": "0x73873BE7bA2958c39b19cA958BA88F9874Ad880a",
+    "amount": 7232,
+    "reward": 621
+  },
+  {
+    "userAddress": "0x191D10135033C0aC66d5e070abF622049E85DE34",
+    "amount": 9694,
+    "reward": 69
+  },
+  {
+    "userAddress": "0xD09b4dD37cb691e970dCF80C568761FFC91BEb6e",
+    "amount": 5664,
+    "reward": 105
+  },
+  {
+    "userAddress": "0x6D7C8bb36c272ee4159639d521469237FBd4044F",
+    "amount": 1877,
+    "reward": 775
+  },
+  {
+    "userAddress": "0x15fb7337D64BE3AE7b8e515D86E76f3b13A2353E",
+    "amount": 4727,
+    "reward": 848
+  },
+  {
+    "userAddress": "0x57298232776b7C6D3Add3D133ccFef40d1Fc189A",
+    "amount": 2691,
+    "reward": 937
+  },
+  {
+    "userAddress": "0xda87f571767a58af9B2Cad6164C1Be7c00477a71",
+    "amount": 920,
+    "reward": 724
+  },
+  {
+    "userAddress": "0x1963A5C787Ff4F35d70dc949D2f5F063a2Df3374",
+    "amount": 7153,
+    "reward": 11
+  },
+  {
+    "userAddress": "0xb7f091D33AfecAdce39d45148Fe01070fFD93D4B",
+    "amount": 6942,
+    "reward": 333
+  },
+  {
+    "userAddress": "0xC763cC95cD0dcE29718e0e620AF1F509a8e6F079",
+    "amount": 6237,
+    "reward": 163
+  },
+  {
+    "userAddress": "0x29a7689Fc25f3bA8B65eafF92D5fCf065317aED8",
+    "amount": 3197,
+    "reward": 891
+  },
+  {
+    "userAddress": "0x645eb810aC687d7b08F04E6252f34F3424258807",
+    "amount": 1130,
+    "reward": 332
+  },
+  {
+    "userAddress": "0xB59740FfB1175e92E26E17B06624b506E122DFD8",
+    "amount": 8971,
+    "reward": 570
+  },
+  {
+    "userAddress": "0x0Ed235c886f6945bF680282d5e819a9242C667Fb",
+    "amount": 2783,
+    "reward": 273
+  },
+  {
+    "userAddress": "0x409D70A6A8e87016D4A9c64277Ab04f9c0F04B8C",
+    "amount": 1579,
+    "reward": 345
+  },
+  {
+    "userAddress": "0x0202822baeEb83E1451457Fb30034bA3b6A96c84",
+    "amount": 4534,
+    "reward": 381
+  },
+  {
+    "userAddress": "0xBF99556cd82c0E62740b2Ec6E1b78fBbd618dbC1",
+    "amount": 9178,
+    "reward": 562
+  },
+  {
+    "userAddress": "0x9fFe1b1b035B47D65c36a131d85179Eff4E6CE1D",
+    "amount": 1768,
+    "reward": 909
+  },
+  {
+    "userAddress": "0x192187B2E3fA41499e178f44A80983D8e12f8C87",
+    "amount": 2726,
+    "reward": 75
+  },
+  {
+    "userAddress": "0x38342b403545bCe7f37e2c76954764c37aB8C9d1",
+    "amount": 1311,
+    "reward": 682
+  },
+  {
+    "userAddress": "0x3B913Dda629a3569f6da33C168304a5D82A1f58E",
+    "amount": 472,
+    "reward": 656
+  },
+  {
+    "userAddress": "0xE4FEa70907B228037D31e53aEEc324713Ac86167",
+    "amount": 9380,
+    "reward": 101
+  },
+  {
+    "userAddress": "0xf1B8DcD8d31b63b77F025DC38d51FBDB6F31436f",
+    "amount": 1592,
+    "reward": 67
+  },
+  {
+    "userAddress": "0xcE20b6A6d4CF09a364AFACBE9A5E55b8b12c7F95",
+    "amount": 9202,
+    "reward": 758
+  },
+  {
+    "userAddress": "0xB7088C18d96Bbdff0ebEB0D234b17dB2709f459e",
+    "amount": 9652,
+    "reward": 863
+  },
+  {
+    "userAddress": "0x3430Ca4E804c9E33378A21BBA267c9Fcb12711A9",
+    "amount": 5765,
+    "reward": 852
+  },
+  {
+    "userAddress": "0xB9dEB74CEA4D4CaCCad04abF06e05721E651C024",
+    "amount": 9006,
+    "reward": 816
+  },
+  {
+    "userAddress": "0xE8446D0d2cDA363ca1955Eb1122340f36D514960",
+    "amount": 3094,
+    "reward": 968
+  },
+  {
+    "userAddress": "0x4700B8783217E4f44EF79E9986fa5C48563ACF42",
+    "amount": 4955,
+    "reward": 29
+  },
+  {
+    "userAddress": "0x713Cd9F6226CCFCF9CB4CbFa97c125138f007691",
+    "amount": 7205,
+    "reward": 649
+  },
+  {
+    "userAddress": "0x69A5a773CFbE450E06215Fa1EfAfa6a95a548680",
+    "amount": 6220,
+    "reward": 639
+  },
+  {
+    "userAddress": "0x4993ED0F6C737ac5A57efE648C9d5b2E6Be3785A",
+    "amount": 690,
+    "reward": 161
+  },
+  {
+    "userAddress": "0x42727CdEA5A60E7aD6705805Df96a84591198a02",
+    "amount": 8960,
+    "reward": 731
+  },
+  {
+    "userAddress": "0xF48F8535545FfC42AC401BeAf9a7deC8a16b4bE0",
+    "amount": 3681,
+    "reward": 37
+  },
+  {
+    "userAddress": "0x88E2be58f630e842bf0881E1F430FF6c4496f29A",
+    "amount": 4001,
+    "reward": 894
+  },
+  {
+    "userAddress": "0x67dFE8c079B3a634c1098587bDEfC5e4beBf8f91",
+    "amount": 5450,
+    "reward": 424
+  },
+  {
+    "userAddress": "0x1894246629A3D6B8a6e7adE1e0a090317c0255Bd",
+    "amount": 2858,
+    "reward": 237
+  },
+  {
+    "userAddress": "0x70F4d83a3F170C012dEd22050d28b1d60fDd4Fc7",
+    "amount": 9242,
+    "reward": 896
+  },
+  {
+    "userAddress": "0x654b1Ca932959616f5fBB9bAB2055aC437BD7cCD",
+    "amount": 3857,
+    "reward": 378
+  },
+  {
+    "userAddress": "0x1D5601cD27CaCcB8B9D930F47102eaAA35e7fd05",
+    "amount": 2145,
+    "reward": 571
+  },
+  {
+    "userAddress": "0x17c110CEB8dF0062Fa2F42D0f58F12B87f72927a",
+    "amount": 9182,
+    "reward": 511
+  },
+  {
+    "userAddress": "0x7a635fBc976f6D0fAA6EeAff92435618ce2157b2",
+    "amount": 8550,
+    "reward": 925
+  },
+  {
+    "userAddress": "0xfb8DF0EcE0220b58E651a0077e6d8947EE6624Fe",
+    "amount": 4634,
+    "reward": 917
+  },
+  {
+    "userAddress": "0x2554FE18Ee1F0BccD57c3fb78F0e2195Eed63B43",
+    "amount": 5089,
+    "reward": 681
+  },
+  {
+    "userAddress": "0x2075089e001dE7C1980af8da3eDAB4E2Ec0498B6",
+    "amount": 9925,
+    "reward": 886
+  },
+  {
+    "userAddress": "0xFC00d8a93C3aBFf42511c2Af52e041a415a37d42",
+    "amount": 9984,
+    "reward": 741
+  },
+  {
+    "userAddress": "0x5107F2a2ecEBAd10f9d96bAfeA0663484d1F33DA",
+    "amount": 6785,
+    "reward": 653
+  },
+  {
+    "userAddress": "0xE1a6B17AB88c1c4E8C7c49806150028cE0853e26",
+    "amount": 8479,
+    "reward": 54
+  },
+  {
+    "userAddress": "0xf296013cA541A397c36514bE39Fb55aB99549757",
+    "amount": 7784,
+    "reward": 260
+  },
+  {
+    "userAddress": "0x953F273A9CB67E0760f9d22897340699133472BE",
+    "amount": 7159,
+    "reward": 641
+  },
+  {
+    "userAddress": "0xC6dA193b3E4F32aF3dA280D4718581b81a347eB3",
+    "amount": 8013,
+    "reward": 375
+  },
+  {
+    "userAddress": "0xFB9aB8786F81731b17E10D9A46601088424Aebcc",
+    "amount": 1565,
+    "reward": 411
+  },
+  {
+    "userAddress": "0xa2123DE2f68c769575C3C7Aa6aAA5A73CcA84BBc",
+    "amount": 1177,
+    "reward": 333
+  },
+  {
+    "userAddress": "0x3Cc4822c826ef052269f7e6b9948d7Ccb4776700",
+    "amount": 806,
+    "reward": 74
+  },
+  {
+    "userAddress": "0x98527F3110c822BCE8012e10Af629D4F8737264d",
+    "amount": 3221,
+    "reward": 575
+  },
+  {
+    "userAddress": "0x5e4bd96478cB52DECdC655e51CAc1aDF4659d84E",
+    "amount": 9731,
+    "reward": 455
+  },
+  {
+    "userAddress": "0x307b5394c003C2E5Fb4f1229169771324c8BA93B",
+    "amount": 6404,
+    "reward": 900
+  },
+  {
+    "userAddress": "0x460F137a958e154386F1241eCe8321BcFB811c69",
+    "amount": 4070,
+    "reward": 116
+  },
+  {
+    "userAddress": "0x4702B31d1b4b48d1EC4a062F546c09326f7C6EcC",
+    "amount": 3759,
+    "reward": 989
+  },
+  {
+    "userAddress": "0x17Ce3cCE8407DB872C7a8e9Db21e14a7555041e5",
+    "amount": 7947,
+    "reward": 623
+  },
+  {
+    "userAddress": "0xC652619062b6873500cdab803bD095E189460e55",
+    "amount": 8967,
+    "reward": 35
+  },
+  {
+    "userAddress": "0x31aB2564A3811A5c4E9a44D9E109289eece9C4F1",
+    "amount": 3548,
+    "reward": 605
+  },
+  {
+    "userAddress": "0x3169a9aA3747f27fA040B82F87b2A44dD1c6963e",
+    "amount": 6052,
+    "reward": 728
+  },
+  {
+    "userAddress": "0xcaa01874239FFbfCA1BD9157ae3cb95125165319",
+    "amount": 1526,
+    "reward": 746
+  },
+  {
+    "userAddress": "0x90abA1E63273998138FFd37d9D042D5b8E01953b",
+    "amount": 6382,
+    "reward": 188
+  },
+  {
+    "userAddress": "0x3Ee834cF36913b2359eD0C612FF30C170DC59aB9",
+    "amount": 7789,
+    "reward": 411
+  },
+  {
+    "userAddress": "0x1F39e191618196AC486410D64Aa66662585293b0",
+    "amount": 4575,
+    "reward": 706
+  },
+  {
+    "userAddress": "0x469fbBc893952Bc430768055664c1f86458A23A1",
+    "amount": 2654,
+    "reward": 66
+  },
+  {
+    "userAddress": "0x0126d4b1F84c4D76e1BC2CC566cA2504e6162Fa6",
+    "amount": 3149,
+    "reward": 484
+  },
+  {
+    "userAddress": "0x65D463B0e181Cb926f969FBBA43D1415f62e71b6",
+    "amount": 2011,
+    "reward": 858
+  },
+  {
+    "userAddress": "0x237767Ab6d1D691FB8aa2E687CcafE79D441A138",
+    "amount": 1266,
+    "reward": 977
+  },
+  {
+    "userAddress": "0x47baA3b1348A07deC4670ee540014474554537e0",
+    "amount": 3471,
+    "reward": 628
+  },
+  {
+    "userAddress": "0xdce885dEeA980C58481e1D9f694137880092BdA1",
+    "amount": 3175,
+    "reward": 294
+  },
+  {
+    "userAddress": "0xDA46712Da13F9e7399D2a7fBf225B89017b8ec02",
+    "amount": 1132,
+    "reward": 967
+  },
+  {
+    "userAddress": "0xCBB13Fb94A5A7124c600a6cDCa06E889526B115E",
+    "amount": 7781,
+    "reward": 599
+  },
+  {
+    "userAddress": "0x12F9eAf78f74a5FE4D4c0Bbfe0487c9D54c65f93",
+    "amount": 7816,
+    "reward": 74
+  },
+  {
+    "userAddress": "0xEDfB48604A0843c9128C2eBf06335727891A4f6f",
+    "amount": 5829,
+    "reward": 156
+  },
+  {
+    "userAddress": "0xf4bB56E371cf28777e24f83Df0F9C3DBc636F84d",
+    "amount": 3031,
+    "reward": 120
+  },
+  {
+    "userAddress": "0xc4F3208314aA47Be8Fb8804Ed9C5D2A4b96A6740",
+    "amount": 6814,
+    "reward": 365
+  },
+  {
+    "userAddress": "0x2E2a5b364e4823804313E3E60361A7b13ec04dc6",
+    "amount": 5337,
+    "reward": 100
+  },
+  {
+    "userAddress": "0x364394Fcf92A595a546CDf7A4a8E9313b71d9475",
+    "amount": 7525,
+    "reward": 63
+  },
+  {
+    "userAddress": "0xfF09B06fBA4c2374947337186cc4a0FcbEf9f8f5",
+    "amount": 3150,
+    "reward": 325
+  },
+  {
+    "userAddress": "0x76055d468ec942E9E57eff89998343FF5F0b58d1",
+    "amount": 7534,
+    "reward": 689
+  },
+  {
+    "userAddress": "0xc51f84D57Fabbba7dC1d728e5df01E934230e9dA",
+    "amount": 4339,
+    "reward": 399
+  },
+  {
+    "userAddress": "0x08D2cE79D367D7F359d36858Fb8B92aC366dDc08",
+    "amount": 9070,
+    "reward": 311
+  },
+  {
+    "userAddress": "0xcA44e557366CdeA87c2d4098F0E204aEfD53FcC4",
+    "amount": 5600,
+    "reward": 390
+  },
+  {
+    "userAddress": "0xAEd73957CBDA65382cbBe41f516D08c6A5975572",
+    "amount": 545,
+    "reward": 108
+  },
+  {
+    "userAddress": "0xd96fafE3e25D54a86B6112Bf69A127088e834a79",
+    "amount": 7920,
+    "reward": 758
+  },
+  {
+    "userAddress": "0x02761b02dC2C541Bb7F609a042A2524479Affd79",
+    "amount": 6965,
+    "reward": 641
+  },
+  {
+    "userAddress": "0x8dcFfC851E4487Aa419b861cECa1eab14709cd21",
+    "amount": 4695,
+    "reward": 421
+  },
+  {
+    "userAddress": "0x9687C282AB5c37C8d523B377070bA848a83be8ed",
+    "amount": 8350,
+    "reward": 188
+  },
+  {
+    "userAddress": "0x51f15270e4377b047A3A2d7aEdd7B8786fF97177",
+    "amount": 5096,
+    "reward": 353
+  },
+  {
+    "userAddress": "0xc21ecFdFC00e9B50607d67cAF2d33b5883c6019b",
+    "amount": 1955,
+    "reward": 462
+  },
+  {
+    "userAddress": "0xB3B47f63797fb7e5a77AcF9270500c93BA39F83b",
+    "amount": 7428,
+    "reward": 453
+  },
+  {
+    "userAddress": "0x41878D6b3d584a1F62a3600F991373E671141aD9",
+    "amount": 9577,
+    "reward": 178
+  },
+  {
+    "userAddress": "0xab034E9428A40FEB9a91F5238A94fC58B913a526",
+    "amount": 6205,
+    "reward": 470
+  },
+  {
+    "userAddress": "0x16E7D7627bB07A72dcB231F96B422A96f5633275",
+    "amount": 2196,
+    "reward": 143
+  },
+  {
+    "userAddress": "0x0d21CdDD9f089f588Ca4965828BdBb525BA6c843",
+    "amount": 1189,
+    "reward": 68
+  },
+  {
+    "userAddress": "0xE3dE9E5c93672221eAeDe781985269B6d287E345",
+    "amount": 1525,
+    "reward": 430
+  },
+  {
+    "userAddress": "0x7961B1469F8A80FB147d6e4461357796F7783ac6",
+    "amount": 4339,
+    "reward": 154
+  },
+  {
+    "userAddress": "0xeaFf8496e3F1CDeA910eA0EF0522a373f018F256",
+    "amount": 9908,
+    "reward": 717
+  },
+  {
+    "userAddress": "0x9B3Ae987b4CF21c342E17be01AF097A90f489791",
+    "amount": 4138,
+    "reward": 628
+  },
+  {
+    "userAddress": "0xa7bD86E677Fa6bC554deF2DD7e29346A83Cb53e2",
+    "amount": 992,
+    "reward": 760
+  },
+  {
+    "userAddress": "0xF926ebF88Cd68406df857289e936d2f16E27fD86",
+    "amount": 5016,
+    "reward": 76
+  },
+  {
+    "userAddress": "0xB8a82973907ffdAc5ad24776e0C2a21E2c6944D3",
+    "amount": 5981,
+    "reward": 573
+  },
+  {
+    "userAddress": "0x278f6196029885d04FD843C0a07DFA8Fdbe30AA5",
+    "amount": 1243,
+    "reward": 536
+  },
+  {
+    "userAddress": "0x3EcDFf99A1077A70Aa4C50e8AbE120444A406607",
+    "amount": 9144,
+    "reward": 45
+  },
+  {
+    "userAddress": "0x757E4eC1d6c7A7b88D99D715933bba8832b4d22a",
+    "amount": 8700,
+    "reward": 542
+  },
+  {
+    "userAddress": "0xd6365511944416E3a045fB15a85D0C26BFDadEcA",
+    "amount": 1806,
+    "reward": 576
+  },
+  {
+    "userAddress": "0x59f1960747636599BA65b4848ae6E7EA5757150C",
+    "amount": 9728,
+    "reward": 317
+  },
+  {
+    "userAddress": "0x318E25C458B15e5b0ffeFacd95e2D1cA71152d77",
+    "amount": 1709,
+    "reward": 410
+  },
+  {
+    "userAddress": "0x6Fbd039014743239Bd1F388a8Cd9A83EBFE7C33e",
+    "amount": 4326,
+    "reward": 763
+  },
+  {
+    "userAddress": "0x02afDA15967B8074e16127234646505Ee2c76992",
+    "amount": 9909,
+    "reward": 736
+  },
+  {
+    "userAddress": "0x0D369C2e4a2EB37C4f0AeB9017CE07fcBd3e9943",
+    "amount": 6506,
+    "reward": 629
+  },
+  {
+    "userAddress": "0x34570F4dc929e6269017b12DD86E6c616F1A546c",
+    "amount": 6531,
+    "reward": 146
+  },
+  {
+    "userAddress": "0x6E2fbBD0C922ebbe9289b5DaC27E071AF6F48b7F",
+    "amount": 5689,
+    "reward": 299
+  },
+  {
+    "userAddress": "0xa26Acc4C815C60C91D130151Fdc20270215B434D",
+    "amount": 5007,
+    "reward": 268
+  },
+  {
+    "userAddress": "0xCb18cb69E1FDB30B8d8252d5c6FbC80C18F24896",
+    "amount": 32,
+    "reward": 817
+  },
+  {
+    "userAddress": "0x7E11926aAfaAE62C7491d80f8eF32c30Eb553488",
+    "amount": 3420,
+    "reward": 810
+  },
+  {
+    "userAddress": "0x7236071f9a644D0ED9def80A836462084675c6BC",
+    "amount": 9993,
+    "reward": 520
+  },
+  {
+    "userAddress": "0xA2521B78704d408E7bA679118eaCFEf8fd4EcD0F",
+    "amount": 1626,
+    "reward": 85
+  },
+  {
+    "userAddress": "0x7aF16cA9dDf85616D25f1e51316f33a1ce4EC3BA",
+    "amount": 2281,
+    "reward": 425
+  },
+  {
+    "userAddress": "0x72947163FC3B927e18DE2e1f2dcF85FAa11b929B",
+    "amount": 2096,
+    "reward": 641
+  },
+  {
+    "userAddress": "0x723592f556A285e416C03536E206a01282bB5Aa3",
+    "amount": 5631,
+    "reward": 276
+  },
+  {
+    "userAddress": "0x3b8EFacA7C3697280CDf8f19A4c4a24C80DB35d2",
+    "amount": 2692,
+    "reward": 872
+  },
+  {
+    "userAddress": "0x4a6745EDe44Ec21DC09eBFFd839CA0C4f00F6a13",
+    "amount": 3305,
+    "reward": 494
+  },
+  {
+    "userAddress": "0x30b677aCBe9E28076ea870156665Ea7a3283152f",
+    "amount": 3280,
+    "reward": 318
+  },
+  {
+    "userAddress": "0x39a807E39D1D02d9815542b9EAE8721838cdB056",
+    "amount": 4390,
+    "reward": 646
+  },
+  {
+    "userAddress": "0x3168AFD6A1B843093289238eA10739fBD4B9B823",
+    "amount": 1280,
+    "reward": 538
+  },
+  {
+    "userAddress": "0xE4324bB8d3744B76f57699cbF7B9CB3278715F01",
+    "amount": 4138,
+    "reward": 19
+  },
+  {
+    "userAddress": "0xD5844584BaC710756F1d2E2CDfe0dC6C7ACfaFa1",
+    "amount": 3399,
+    "reward": 654
+  },
+  {
+    "userAddress": "0xcA2058617bF6e9eFD6369eDFaE7880328C1ADFe3",
+    "amount": 1464,
+    "reward": 694
+  },
+  {
+    "userAddress": "0xBe1701b88224AAadCc9463cb304dD1A429E98E08",
+    "amount": 8139,
+    "reward": 801
+  },
+  {
+    "userAddress": "0x9B56fe70e4E933DFCe9C6f0BC28050ED73c90823",
+    "amount": 4144,
+    "reward": 215
+  },
+  {
+    "userAddress": "0x15c40600378277Bbb8183183B02C4c9516A3Ec94",
+    "amount": 1596,
+    "reward": 478
+  },
+  {
+    "userAddress": "0x1D2D993FcEae3ec06908b367661f268f7B0A7D5e",
+    "amount": 9515,
+    "reward": 908
+  },
+  {
+    "userAddress": "0x9C1630C14719bf51d2b1E5D1268022B7Bb1786fF",
+    "amount": 4393,
+    "reward": 466
+  },
+  {
+    "userAddress": "0xC9B87931Fcf1B1142157B52A8c9D269Ae0Cd89a6",
+    "amount": 628,
+    "reward": 282
+  },
+  {
+    "userAddress": "0x39Ba98d82A7033244256731705779210AbcD4Aa2",
+    "amount": 3254,
+    "reward": 977
+  },
+  {
+    "userAddress": "0x2502a2a1B42F0250Ec03acFc69675D282C08E8b1",
+    "amount": 1522,
+    "reward": 414
+  },
+  {
+    "userAddress": "0x901ff9E66179cb02581c67E710431B048231ce5d",
+    "amount": 4288,
+    "reward": 230
+  },
+  {
+    "userAddress": "0x812Fc0ba9de6c8F986efFFB7D67193f222b261d9",
+    "amount": 8582,
+    "reward": 229
+  },
+  {
+    "userAddress": "0x51E04123b41bb3A6B84DD6B852Bb511CfD497851",
+    "amount": 8686,
+    "reward": 657
+  },
+  {
+    "userAddress": "0x4De9A222C59ff9056113ce472dFc1ccaC99ee5e4",
+    "amount": 7896,
+    "reward": 733
+  },
+  {
+    "userAddress": "0x27b8633BA23B097eD6f6cB79AA09A20d7cf9d9f4",
+    "amount": 5011,
+    "reward": 715
+  },
+  {
+    "userAddress": "0x8dA89a85cE93BA11702243E4780fAd1a6A294A73",
+    "amount": 290,
+    "reward": 619
+  },
+  {
+    "userAddress": "0x0598658f2EE584F038Dc4B04BfE6265c5e310D0D",
+    "amount": 1456,
+    "reward": 684
+  },
+  {
+    "userAddress": "0x42F311afC141E4327e612f6352BA8028627b7660",
+    "amount": 3754,
+    "reward": 575
+  },
+  {
+    "userAddress": "0x835741B7974A831AaCf1c836600405702b1AcEd4",
+    "amount": 1880,
+    "reward": 344
+  },
+  {
+    "userAddress": "0x96C94170C2cf2D70C6d102E20Dcd9F3595D8C71a",
+    "amount": 118,
+    "reward": 75
+  },
+  {
+    "userAddress": "0xEf89403cB21025e003b732c0FC31c7CA419BcA8B",
+    "amount": 7578,
+    "reward": 860
+  },
+  {
+    "userAddress": "0x0c303F6E6F33a8301C093f12Ff03f0Ba117FEfDc",
+    "amount": 3971,
+    "reward": 530
+  },
+  {
+    "userAddress": "0x2f0E68e2cbC9B8148b2b48C495c045367aFA1795",
+    "amount": 5213,
+    "reward": 815
+  },
+  {
+    "userAddress": "0x8A4Ff8B3Fa9B5F8546f06bA5C2fB8233007fcbEB",
+    "amount": 9759,
+    "reward": 793
+  },
+  {
+    "userAddress": "0xD8e4FC13Df7f36DC40B50E299bbBD330cC2C3D51",
+    "amount": 3855,
+    "reward": 694
+  },
+  {
+    "userAddress": "0xa10CEE62bA32f292DFbb6f6e79b1Beda661A1dAc",
+    "amount": 9407,
+    "reward": 599
+  },
+  {
+    "userAddress": "0x957e673eec0Ab281507EcDCC733F682E6dc76599",
+    "amount": 8088,
+    "reward": 65
+  },
+  {
+    "userAddress": "0xf90bb489260806CE266918890dA7D3A06F9B2490",
+    "amount": 3719,
+    "reward": 231
+  },
+  {
+    "userAddress": "0x66efe04c94099eA5bD6694fC202DB94ea18dd1e3",
+    "amount": 5200,
+    "reward": 51
+  },
+  {
+    "userAddress": "0x02e1c8014A19ed2A8AEfa801E3D25BfF124cB21F",
+    "amount": 5205,
+    "reward": 427
+  },
+  {
+    "userAddress": "0xE63afaD0a70985cBcD25986cF7a560bCAa1e76c4",
+    "amount": 6925,
+    "reward": 85
+  },
+  {
+    "userAddress": "0xA6276791cfad4a8F728465dc29E666C4158C8497",
+    "amount": 3458,
+    "reward": 580
+  },
+  {
+    "userAddress": "0x5cFebcB05218526c690cc00419Da350d9C7b84B0",
+    "amount": 8208,
+    "reward": 1
+  },
+  {
+    "userAddress": "0x01055172c6fa0c87ba7E918f5719a4200151F025",
+    "amount": 9526,
+    "reward": 446
+  },
+  {
+    "userAddress": "0x8D3c0c866c3810966FADce2EE1cF641C5Dcf887c",
+    "amount": 1008,
+    "reward": 349
+  },
+  {
+    "userAddress": "0x0E8AF40f55f826831dEDc4885276e21Fd91707C2",
+    "amount": 82,
+    "reward": 284
+  },
+  {
+    "userAddress": "0x44fA060578cec134120bC462da4a1A1Aed112dc1",
+    "amount": 8128,
+    "reward": 552
+  },
+  {
+    "userAddress": "0xf36c629A71cFf8FcF4cc388aA8Fac499448FF9B0",
+    "amount": 9516,
+    "reward": 876
+  },
+  {
+    "userAddress": "0x3742A25A6dDcFfC1FE8460bA76251d55D545FdFe",
+    "amount": 9123,
+    "reward": 357
+  },
+  {
+    "userAddress": "0x13604b8e05E2C41a62947eE2F85dd3F85C37a1C6",
+    "amount": 2397,
+    "reward": 104
+  },
+  {
+    "userAddress": "0xEf6A478401b5448879Ad8B074F31bE2D6d5dF866",
+    "amount": 6767,
+    "reward": 95
+  },
+  {
+    "userAddress": "0xFA9A3fb541a37A7180fEEaB0776DCD25CeAcbEAF",
+    "amount": 8813,
+    "reward": 111
+  },
+  {
+    "userAddress": "0x95687E950b5dE4435340FAC8c6dE9a95FF593Be0",
+    "amount": 6380,
+    "reward": 709
+  },
+  {
+    "userAddress": "0x47eb47437B06E6BF7b70F3a0FD48c01Daf70A615",
+    "amount": 1867,
+    "reward": 255
+  },
+  {
+    "userAddress": "0xA8bF1D5dc7D303DeE991E9b74a7e25E1A0e62457",
+    "amount": 649,
+    "reward": 334
+  },
+  {
+    "userAddress": "0xC1D7faA2B55E74A634E18236a0F16Bc352c2EFEB",
+    "amount": 4307,
+    "reward": 900
+  },
+  {
+    "userAddress": "0xc5055fB393b3414d0bFc3418bfC2Fec8cA13Eb37",
+    "amount": 3440,
+    "reward": 672
+  },
+  {
+    "userAddress": "0x8990fAdf74aECb13997423DBe82f23A09B06ff83",
+    "amount": 171,
+    "reward": 873
+  },
+  {
+    "userAddress": "0xC2CC93813AB844Bc5642664370796aF8860E851C",
+    "amount": 156,
+    "reward": 117
+  },
+  {
+    "userAddress": "0xE8A4630e5294FA1b56Bc9328dcC8Ba5C37B71738",
+    "amount": 6503,
+    "reward": 271
+  },
+  {
+    "userAddress": "0xd91DA82dF0981Cee82A792971D8aca3f32aC426d",
+    "amount": 9347,
+    "reward": 294
+  },
+  {
+    "userAddress": "0xc3a914012fE924BdD74B4D1893b8cbF0f37a77E3",
+    "amount": 2583,
+    "reward": 902
+  },
+  {
+    "userAddress": "0x6f7b8086f262dcd6ac8DD5c92EF51258BeDd5f91",
+    "amount": 4289,
+    "reward": 443
+  },
+  {
+    "userAddress": "0xbA808a69D4E31B15f5745BdbfB62b69373500ab5",
+    "amount": 9026,
+    "reward": 115
+  },
+  {
+    "userAddress": "0x61eA973316553D4B3a22423c1176476661505093",
+    "amount": 6194,
+    "reward": 161
+  },
+  {
+    "userAddress": "0x3dC09F16654D83704970746f8e9474993CF2a95f",
+    "amount": 6903,
+    "reward": 776
+  },
+  {
+    "userAddress": "0x26BA78ec2493f59022Df9772628e0DAA7285f880",
+    "amount": 4807,
+    "reward": 548
+  },
+  {
+    "userAddress": "0x8ED06a807bA1e6f4474808482b7a0D5872E3709d",
+    "amount": 8574,
+    "reward": 125
+  },
+  {
+    "userAddress": "0x530daC30e79c938183102b0380869b9ACC01605E",
+    "amount": 6619,
+    "reward": 48
+  },
+  {
+    "userAddress": "0xdd54294B5e13EBCF0C82A98fEDe3aEB1a5CfB9D6",
+    "amount": 1993,
+    "reward": 119
+  },
+  {
+    "userAddress": "0xF780093f324a51378B4847F66978d1241e2A1f10",
+    "amount": 112,
+    "reward": 652
+  },
+  {
+    "userAddress": "0x78663E9235d930DCC9f94247D3c6D9DB577d1145",
+    "amount": 7318,
+    "reward": 25
+  },
+  {
+    "userAddress": "0xbF87aC51dD25b204aCfDc9722499A6A6Ca2C067c",
+    "amount": 5655,
+    "reward": 787
+  },
+  {
+    "userAddress": "0xc931F44c8a46B202B40514b2696C08905f54D4A8",
+    "amount": 2884,
+    "reward": 402
+  },
+  {
+    "userAddress": "0x61c87c4894C64E0565B7e679f99BbbD8ABAAdA6b",
+    "amount": 9822,
+    "reward": 803
+  },
+  {
+    "userAddress": "0xA2b318E94f5235be772AC7d2fa372502100Dd6D3",
+    "amount": 2494,
+    "reward": 119
+  },
+  {
+    "userAddress": "0x4D9CD59cebdE77438Eca5F58336a04e445dcAf7B",
+    "amount": 3624,
+    "reward": 351
+  },
+  {
+    "userAddress": "0x88Ad0A8d06894f4F55Fc6D95aEa605968cdFD1Fb",
+    "amount": 2209,
+    "reward": 117
+  },
+  {
+    "userAddress": "0xbEd4BA6f022B0d6aaE34AB539cD2Bfb4F4947e93",
+    "amount": 764,
+    "reward": 407
+  },
+  {
+    "userAddress": "0x650d4F72c26b6a64150AF419a2FC8D6ae04aE9Df",
+    "amount": 7312,
+    "reward": 698
+  },
+  {
+    "userAddress": "0x3ABf267425f7A1C4F397967C15300959A01fAd90",
+    "amount": 9176,
+    "reward": 975
+  },
+  {
+    "userAddress": "0xb4E5312ECd2A1Ac83Ae33DEef82E17Ed17E47aA7",
+    "amount": 4161,
+    "reward": 780
+  },
+  {
+    "userAddress": "0x3478Cb072dd5dC4Dc76CD2d6559c82773E2B6573",
+    "amount": 8358,
+    "reward": 378
+  },
+  {
+    "userAddress": "0x52838FAbEB7026565A58262525A137e78Aa046e3",
+    "amount": 8118,
+    "reward": 436
+  },
+  {
+    "userAddress": "0xC7004E2C9eE99dA219555b2fcfb950F99Dc2c5bf",
+    "amount": 7287,
+    "reward": 167
+  },
+  {
+    "userAddress": "0x825fAD79bA3851499909E606CC3c4C5392FF136b",
+    "amount": 1106,
+    "reward": 818
+  },
+  {
+    "userAddress": "0xb4c5cA036363e5cae688252b374b6F437A9D9C32",
+    "amount": 1858,
+    "reward": 828
+  },
+  {
+    "userAddress": "0xA974Ce10698D01B660B13cF43e836EcbDD125b2A",
+    "amount": 6945,
+    "reward": 174
+  },
+  {
+    "userAddress": "0xFd3C219B068d6D67251e185d98a3c3e82f637BD5",
+    "amount": 1169,
+    "reward": 341
+  },
+  {
+    "userAddress": "0xEF871c9462C4E66f6ddef1aba69f7c55A4B9728B",
+    "amount": 9633,
+    "reward": 586
+  },
+  {
+    "userAddress": "0x30Ff83E562D10673271fED3919415A66cb2290E7",
+    "amount": 4367,
+    "reward": 180
+  },
+  {
+    "userAddress": "0xeDF5A5447F713b57F9035Df9ede2F7693e6EAa50",
+    "amount": 9024,
+    "reward": 438
+  },
+  {
+    "userAddress": "0xED096802c8B046baBB9882D853E5811A86f05051",
+    "amount": 8422,
+    "reward": 823
+  },
+  {
+    "userAddress": "0x4c6aFA2669C1894B5325CE693e98d976b127125A",
+    "amount": 8099,
+    "reward": 269
+  },
+  {
+    "userAddress": "0x7596B6729436735bB41440d3a09E7B6dC9dA46c4",
+    "amount": 1951,
+    "reward": 744
+  },
+  {
+    "userAddress": "0xF6e546Db6dbc1CbdDec50D4D8E8A664Bee2cD766",
+    "amount": 5467,
+    "reward": 210
+  },
+  {
+    "userAddress": "0x04022C5f7BF1D653d02e6da6bc5C1f1fd615C1F9",
+    "amount": 7384,
+    "reward": 331
+  },
+  {
+    "userAddress": "0xb1542a2Af6024bB91964D469Ab86ff9619B4E70d",
+    "amount": 6526,
+    "reward": 785
+  },
+  {
+    "userAddress": "0x7541b7Cea292a09C518E401680aD661608AE85E2",
+    "amount": 780,
+    "reward": 344
+  },
+  {
+    "userAddress": "0x5ef1e1cfa4545FC4D5be4C8562b78960992964Ad",
+    "amount": 9431,
+    "reward": 307
+  },
+  {
+    "userAddress": "0x98a4a20502b25cd311C3204a9405d4335995963A",
+    "amount": 7204,
+    "reward": 630
+  },
+  {
+    "userAddress": "0x974E01bB2693D6F33801304639CE3ca67A6b902E",
+    "amount": 3946,
+    "reward": 336
+  },
+  {
+    "userAddress": "0x5eC0c28236790E54f6a773e6d621B5ebF912d078",
+    "amount": 7000,
+    "reward": 401
+  },
+  {
+    "userAddress": "0xca99E40523b31C2E180e35F10D37b5d625935E81",
+    "amount": 8466,
+    "reward": 183
+  },
+  {
+    "userAddress": "0xee6966311Af6A4Ad9E5D14d1a06d2414BbA82a5B",
+    "amount": 4764,
+    "reward": 820
+  },
+  {
+    "userAddress": "0x3741c7A7E2A1793f24886E5A9D088bCa2a259f41",
+    "amount": 4949,
+    "reward": 479
+  },
+  {
+    "userAddress": "0x65f9e0bD40b7e4AC28cc0F1ed6CC6cC4108B8e04",
+    "amount": 431,
+    "reward": 375
+  },
+  {
+    "userAddress": "0x83554d509AADDbF61b83511E3fA3a09eF053b6e9",
+    "amount": 1250,
+    "reward": 628
+  },
+  {
+    "userAddress": "0xF2dC0A748B485F2cc25bd05425B769874cFa19F6",
+    "amount": 1676,
+    "reward": 753
+  },
+  {
+    "userAddress": "0x8EB686D63BfF5473ed8a16281Fa708Cc6eE1144A",
+    "amount": 8480,
+    "reward": 675
+  },
+  {
+    "userAddress": "0xCF8723496AE5225730B652B81BF9f362a41f0312",
+    "amount": 3432,
+    "reward": 242
+  },
+  {
+    "userAddress": "0x397b2Bd2c637CC667F9A9B165bf80A5793DE4582",
+    "amount": 7784,
+    "reward": 93
+  },
+  {
+    "userAddress": "0x84755b14A43EfF2DA387e287C6B1119e7Df135C4",
+    "amount": 8133,
+    "reward": 135
+  },
+  {
+    "userAddress": "0x72B302158E6Ff19B4752D5cF9b59F6f338f6413f",
+    "amount": 3018,
+    "reward": 72
+  },
+  {
+    "userAddress": "0x6a8E066B058900C416bFe8FBB765EaDfdE5e50C0",
+    "amount": 8351,
+    "reward": 914
+  },
+  {
+    "userAddress": "0x11534bc393afef34C898296b9C34A40CEBa4fC74",
+    "amount": 5113,
+    "reward": 826
+  },
+  {
+    "userAddress": "0x2d096b68802686b4c492918aB4E7486476B91024",
+    "amount": 4670,
+    "reward": 184
+  },
+  {
+    "userAddress": "0xe8D13e6b61680b19e0c7AEf6B2cFD13D8A3dd658",
+    "amount": 3191,
+    "reward": 903
+  },
+  {
+    "userAddress": "0x702Eeb716b5763d39fbA3F43C31a52aa52409CFF",
+    "amount": 2752,
+    "reward": 324
+  },
+  {
+    "userAddress": "0xe0D1e1be8fFd5A43773894961cef18B7de5AA4dB",
+    "amount": 7874,
+    "reward": 284
+  },
+  {
+    "userAddress": "0xA9D12E3635b11c405F3c082eA14AE6e2E50e9dDC",
+    "amount": 3953,
+    "reward": 60
+  },
+  {
+    "userAddress": "0x66c3DC6BF17537d9aB51040Df8d7Fc7604843311",
+    "amount": 8719,
+    "reward": 931
+  },
+  {
+    "userAddress": "0x2B079A312783399086089Ef592b308b3636EB468",
+    "amount": 801,
+    "reward": 3
+  },
+  {
+    "userAddress": "0x994Ab8b718CD6497cD447056B716C7aa71a8445b",
+    "amount": 905,
+    "reward": 853
+  },
+  {
+    "userAddress": "0xAc96b1E25f81781143B84CE65B32056E2FeD6dFc",
+    "amount": 204,
+    "reward": 674
+  },
+  {
+    "userAddress": "0xE1f4B60F7b43e3faD3eF3E035992D3FB6b0c1FF7",
+    "amount": 5841,
+    "reward": 931
+  },
+  {
+    "userAddress": "0x0C2B5366aF474B6406505e1F9F1Cc45f451F3CF5",
+    "amount": 7845,
+    "reward": 721
+  },
+  {
+    "userAddress": "0xDc5A158b8E73B7d3C386713E8d745fbd15E89B1C",
+    "amount": 7289,
+    "reward": 339
+  },
+  {
+    "userAddress": "0x775c100c9e1dBDc48Da414fcDA62161d6A67C6B6",
+    "amount": 9767,
+    "reward": 797
+  },
+  {
+    "userAddress": "0x526Cd18a5C708297c9AFd4319d5924F41445e9b2",
+    "amount": 5833,
+    "reward": 881
+  },
+  {
+    "userAddress": "0x855377d8C07747DB0B4efa1951B00c1653056793",
+    "amount": 2031,
+    "reward": 220
+  },
+  {
+    "userAddress": "0xF4f51AB1bDd98d392eBcFf1E15710920d7832A4f",
+    "amount": 4857,
+    "reward": 154
+  },
+  {
+    "userAddress": "0x91e462a780b017609bAD4433203599A0613Cea58",
+    "amount": 5629,
+    "reward": 369
+  },
+  {
+    "userAddress": "0x759a9552a63d110d275306b886Ee3C40A6fA7173",
+    "amount": 2909,
+    "reward": 242
+  },
+  {
+    "userAddress": "0x5ec2b518aa8CaA008C2FBa282cA4Ff42662AbeE8",
+    "amount": 4789,
+    "reward": 967
+  },
+  {
+    "userAddress": "0x1Acf2b783C7D701052a85d0e92DadACc90156F35",
+    "amount": 4116,
+    "reward": 330
+  },
+  {
+    "userAddress": "0xe5F217496778e2D030032d6eC8A83573AFBD7a78",
+    "amount": 4771,
+    "reward": 635
+  },
+  {
+    "userAddress": "0xb42be09f50DE8F7351eb3e05b6475847B85cB499",
+    "amount": 6533,
+    "reward": 224
+  },
+  {
+    "userAddress": "0x7fd2aD77923F02F594a3Dbba0ec98FD96552A950",
+    "amount": 3707,
+    "reward": 264
+  },
+  {
+    "userAddress": "0x94263C510a7A643a7C92294398e1de09B0E2BC37",
+    "amount": 9648,
+    "reward": 981
+  },
+  {
+    "userAddress": "0x8Ed4Ea7eFF39C8b23E5d69aB07a2ba4752D2c014",
+    "amount": 5817,
+    "reward": 647
+  },
+  {
+    "userAddress": "0x09f23d6B4dAEB12168035811C76EaF6DabB26AF7",
+    "amount": 6652,
+    "reward": 299
+  },
+  {
+    "userAddress": "0x45AF39137Cc9297dC83152b5a0eD3F840CaB6384",
+    "amount": 8323,
+    "reward": 254
+  },
+  {
+    "userAddress": "0xCA042920013EF57f1c6778049eBCcB1Cee833a7B",
+    "amount": 6934,
+    "reward": 371
+  },
+  {
+    "userAddress": "0x8d878a85Dadeb661edE0eeb80d37e42741131489",
+    "amount": 1225,
+    "reward": 890
+  },
+  {
+    "userAddress": "0x3498f261d9D9FdF27580F77d22439C85fFAF454c",
+    "amount": 2066,
+    "reward": 660
+  },
+  {
+    "userAddress": "0x816c9129cD95Db11F0746d5326604E85D26C3ad0",
+    "amount": 5069,
+    "reward": 687
+  },
+  {
+    "userAddress": "0x6DBaedb6B575651769ce56438C57378F6CB99f50",
+    "amount": 7653,
+    "reward": 620
+  },
+  {
+    "userAddress": "0x917c7f14eb47fc37532C5aE350D2cE8e392f1A14",
+    "amount": 7589,
+    "reward": 522
+  },
+  {
+    "userAddress": "0xEA677C2A5adF26De7A625ba26E6B8608ab26154B",
+    "amount": 7167,
+    "reward": 886
+  },
+  {
+    "userAddress": "0xE1782CDAB75E358E31bDd57983A668CCD844086b",
+    "amount": 602,
+    "reward": 967
+  },
+  {
+    "userAddress": "0x2186adFeE42FD9abCA2DB41f5C623D362fb10b7E",
+    "amount": 4098,
+    "reward": 796
+  },
+  {
+    "userAddress": "0x1eceA63A85dba8f6dc7EAd7d94a80F8BB8E8E803",
+    "amount": 8977,
+    "reward": 922
+  },
+  {
+    "userAddress": "0x75A11D7749386a635652177FdE299A97Ee059C82",
+    "amount": 795,
+    "reward": 554
+  },
+  {
+    "userAddress": "0x8d0E831b079230bFa7fdFF424924e0d6Ba793d8d",
+    "amount": 7466,
+    "reward": 668
+  },
+  {
+    "userAddress": "0x40eb155A9D0b6C01af9309146666147a304DaD8c",
+    "amount": 9887,
+    "reward": 562
+  },
+  {
+    "userAddress": "0x16731A9adFf0CCb5d9f79E434A0D67a27063F2D7",
+    "amount": 2563,
+    "reward": 77
+  },
+  {
+    "userAddress": "0x42c3F1018333b40D65b8590305266a971607e2Cd",
+    "amount": 2851,
+    "reward": 176
+  },
+  {
+    "userAddress": "0x9B3dC6f1a1330C6c90a3844625d67b6c4FC1C846",
+    "amount": 6673,
+    "reward": 72
+  },
+  {
+    "userAddress": "0xF6cb6F39f2315F60D203399eD5820703816728d7",
+    "amount": 2859,
+    "reward": 147
+  },
+  {
+    "userAddress": "0xD040A64F07CD91b0b3d87EfF6Fdb2704A42B71c8",
+    "amount": 8886,
+    "reward": 547
+  },
+  {
+    "userAddress": "0xb228840Ccc2A49052f27c3A133DB84796440d4ba",
+    "amount": 8797,
+    "reward": 949
+  },
+  {
+    "userAddress": "0xCBf56AFDD21CB864511E7171714d60d9af23B920",
+    "amount": 9585,
+    "reward": 965
+  },
+  {
+    "userAddress": "0x27D5014D868C829762415086d7AAFcE666ad8CCB",
+    "amount": 9790,
+    "reward": 47
+  },
+  {
+    "userAddress": "0x0F76dC0F2586c674E978Bf6E0FC11fB01037d27a",
+    "amount": 877,
+    "reward": 223
+  },
+  {
+    "userAddress": "0xfFC9A4452E3fAe4dB0FDA65464454DB9c468Baee",
+    "amount": 2000,
+    "reward": 990
+  },
+  {
+    "userAddress": "0xA7Df43071340527F0C239D2A6807CA8866c3A951",
+    "amount": 930,
+    "reward": 702
+  },
+  {
+    "userAddress": "0xe16e28E5b91e8cAb944B9955F24acd87F48EeAc2",
+    "amount": 1945,
+    "reward": 871
+  },
+  {
+    "userAddress": "0x3bEfe7072ec1Ac77fcACE6a8E2d4BeF28cf72aDb",
+    "amount": 5080,
+    "reward": 703
+  },
+  {
+    "userAddress": "0x666a81Fae062a1be7093851d6b1Bd5E5982Eee1b",
+    "amount": 8108,
+    "reward": 535
+  },
+  {
+    "userAddress": "0xf0DE754CC68cec224b72Ff4d25705270Ecd1b84D",
+    "amount": 6472,
+    "reward": 855
+  },
+  {
+    "userAddress": "0x0c0E62b5Da3031B14837c01c5792F1F272926caA",
+    "amount": 1136,
+    "reward": 323
+  },
+  {
+    "userAddress": "0x35695922b98Ac00EC4eAD5bF889587394d2a3E05",
+    "amount": 5788,
+    "reward": 883
+  },
+  {
+    "userAddress": "0xAdb20Fc02b01d161A29B4d8fB37E515411A41f27",
+    "amount": 2243,
+    "reward": 974
+  },
+  {
+    "userAddress": "0xfE25aF9aC403BC86DF3C04d130240D81eE57d2C2",
+    "amount": 4152,
+    "reward": 172
+  },
+  {
+    "userAddress": "0x410264a8CECf408A893bACc4bd2c3cd7bAEBe7eD",
+    "amount": 6136,
+    "reward": 944
+  },
+  {
+    "userAddress": "0x2339F3B2D4dD4e0F5bEb1cD013290f93fF6a6e3a",
+    "amount": 3676,
+    "reward": 517
+  },
+  {
+    "userAddress": "0xEf03f1683B58fc036b5699141c695EBd9904368E",
+    "amount": 4276,
+    "reward": 388
+  },
+  {
+    "userAddress": "0x4C311929c6bDb2C37A2AF27877cC14dB4E4b0aFC",
+    "amount": 2208,
+    "reward": 184
+  },
+  {
+    "userAddress": "0x820fBdc442ac60c3Cf920a5812693dA80AEbD48A",
+    "amount": 1283,
+    "reward": 441
+  },
+  {
+    "userAddress": "0x76a2bF2467bd9D2FC77d152C88cc7D1C0E4E29e3",
+    "amount": 9665,
+    "reward": 454
+  },
+  {
+    "userAddress": "0x756A1cD3CEA28d9FA0670f134C4cB392cb167a3c",
+    "amount": 5276,
+    "reward": 184
+  },
+  {
+    "userAddress": "0x50C068d1a6bb63F0c6fa4222aAf14fbE34e6F957",
+    "amount": 6679,
+    "reward": 987
+  },
+  {
+    "userAddress": "0xF9B9a2610AA73BC3B6e933E525aCF8C74439A7b8",
+    "amount": 3344,
+    "reward": 425
+  },
+  {
+    "userAddress": "0x99b30843858db55bE896897f7AbBaf795A9d79AB",
+    "amount": 4790,
+    "reward": 596
+  },
+  {
+    "userAddress": "0x6ca7574Fbe307b6Dfd414c7dBbd71A154D0747D6",
+    "amount": 1633,
+    "reward": 655
+  },
+  {
+    "userAddress": "0x392271d1aFE4964cACAa83a9eDeC3690ED3Ece92",
+    "amount": 6314,
+    "reward": 195
+  },
+  {
+    "userAddress": "0x5924b39AbB24761aD073F9b3590041f4ce0a1De6",
+    "amount": 9047,
+    "reward": 744
+  },
+  {
+    "userAddress": "0xd55905154fA703638dB91c97367d42AD3175d138",
+    "amount": 2113,
+    "reward": 36
+  },
+  {
+    "userAddress": "0x1E52405Dce62fCf80D92700ECCbEAB207E64FDC4",
+    "amount": 5137,
+    "reward": 290
+  },
+  {
+    "userAddress": "0x7e2AD37dE0c39a26F252796e8157a5bC9b3Be719",
+    "amount": 5697,
+    "reward": 108
+  },
+  {
+    "userAddress": "0x6a80391081D75c7BB2f6710b5dEb9b1f2ff2F6c5",
+    "amount": 8591,
+    "reward": 472
+  },
+  {
+    "userAddress": "0x8b1F55FA893F3785fBE24E57322E2C79dcA3ca78",
+    "amount": 6142,
+    "reward": 266
+  },
+  {
+    "userAddress": "0x804255FAb9f803C76A8CE3D73a4eC3fF9f9d7781",
+    "amount": 478,
+    "reward": 707
+  },
+  {
+    "userAddress": "0x9B41d1cc9aD3D7F52C5721348b4D0263943D0Be5",
+    "amount": 6292,
+    "reward": 196
+  },
+  {
+    "userAddress": "0x2D91291E94932f61827285a3162B39e7F6dA414a",
+    "amount": 2238,
+    "reward": 215
+  },
+  {
+    "userAddress": "0x784585e8a20267D24cCB7e290EE8aF487cDE8128",
+    "amount": 1166,
+    "reward": 192
+  },
+  {
+    "userAddress": "0xdC88cEd9D50E2b0baBE99FA3dF0132EB1A00A1BB",
+    "amount": 5916,
+    "reward": 819
+  },
+  {
+    "userAddress": "0x44C9e70034647dd50C0D74b6Bc9E68c4BF929F6E",
+    "amount": 7016,
+    "reward": 133
+  },
+  {
+    "userAddress": "0x1f982C26861F7dD2D35bB4610aED2a4f40e9B277",
+    "amount": 6312,
+    "reward": 575
+  },
+  {
+    "userAddress": "0x3A2A1d9c01BcdDFe351afc6940290a88dbF1e26E",
+    "amount": 9055,
+    "reward": 915
+  },
+  {
+    "userAddress": "0x187BB9082068b279CFAEB6048C834310bF8118BE",
+    "amount": 272,
+    "reward": 326
+  },
+  {
+    "userAddress": "0x6d9fEdFDb7bdF65809605B8CDe0E781f3a4349FA",
+    "amount": 2485,
+    "reward": 337
+  },
+  {
+    "userAddress": "0x0B575fd3175f71d9b07E037A2E0E04d741a93b24",
+    "amount": 4905,
+    "reward": 898
+  },
+  {
+    "userAddress": "0xa5E3F776c7b37aDd7c6e9d8691Ed8b8bF0dEf8BA",
+    "amount": 4625,
+    "reward": 304
+  },
+  {
+    "userAddress": "0x261EA17cf549FC5418c49792639B9f5096255Ebe",
+    "amount": 1572,
+    "reward": 293
+  },
+  {
+    "userAddress": "0x9c51074b6589de4EEE4563d0614fFF4631dDAFB2",
+    "amount": 6897,
+    "reward": 791
+  },
+  {
+    "userAddress": "0x603c541F78B438a79b7975F61E87c01635fE6956",
+    "amount": 1088,
+    "reward": 414
+  },
+  {
+    "userAddress": "0xD1e887f963a8565248CEB218FaE466427B731Af4",
+    "amount": 4470,
+    "reward": 97
+  },
+  {
+    "userAddress": "0x7CfeebBbb3FEdae2F4efD8cD5208a2e29a0dB5f6",
+    "amount": 1099,
+    "reward": 469
+  },
+  {
+    "userAddress": "0x11dCcAe34814E0fD914fcC58e319235AF047A227",
+    "amount": 7538,
+    "reward": 315
+  },
+  {
+    "userAddress": "0xfd25684850B1f088f4cE0676F13A5248a43e836a",
+    "amount": 7580,
+    "reward": 180
+  },
+  {
+    "userAddress": "0x8Cf438b1893cAB6770A656644360356EFf843E2b",
+    "amount": 9032,
+    "reward": 928
+  },
+  {
+    "userAddress": "0x420F121B16a6082e7cBc00BBBB941F9E17a9d1dC",
+    "amount": 3903,
+    "reward": 402
+  },
+  {
+    "userAddress": "0xa5bb8d5b27ec18F287637114bFB98f0f366b3739",
+    "amount": 9596,
+    "reward": 559
+  },
+  {
+    "userAddress": "0xAE126baf0b4E24FB69748aFfb9DeBbfCf3e48051",
+    "amount": 2195,
+    "reward": 375
+  },
+  {
+    "userAddress": "0x5B1B67431b0479c0Ca4f5CdA36429d4a75F6fB5A",
+    "amount": 1687,
+    "reward": 972
+  },
+  {
+    "userAddress": "0xad7F117B822C2888c34723d1EeFEA987ab2B13c3",
+    "amount": 6232,
+    "reward": 437
+  },
+  {
+    "userAddress": "0xd390325F468Bf4e29DA0558aFC3AE913947839Ae",
+    "amount": 911,
+    "reward": 452
+  },
+  {
+    "userAddress": "0x2C204180E32C00731b3A4bEA5fCf997A5FcD0eD6",
+    "amount": 9678,
+    "reward": 628
+  },
+  {
+    "userAddress": "0xD07dC9152AB9AC55EDE9EDC06f58aEfb3Aa7B6AF",
+    "amount": 4192,
+    "reward": 246
+  },
+  {
+    "userAddress": "0xecEe35Cc134A7169c38F47011595f57aFeAb9963",
+    "amount": 8371,
+    "reward": 451
+  },
+  {
+    "userAddress": "0xfBf52a7751536cAd2559E608d4Cc2E99d3E0DA2a",
+    "amount": 2838,
+    "reward": 816
+  },
+  {
+    "userAddress": "0x811752DE067cEF40e9B94438656A4D3be18e67ab",
+    "amount": 923,
+    "reward": 211
+  },
+  {
+    "userAddress": "0xb4AAbf66a7B7777D7988D610a4F39417B24eaE73",
+    "amount": 1894,
+    "reward": 991
+  },
+  {
+    "userAddress": "0xa9EEf02DD4994a3Bd17b278dacfa4CFdCa1DF8f6",
+    "amount": 9048,
+    "reward": 196
+  },
+  {
+    "userAddress": "0x25f38e509FD531285565C76B935d98857BC06519",
+    "amount": 6782,
+    "reward": 109
+  },
+  {
+    "userAddress": "0x8871ebF379993F1E356e2A2edE440eFb1A3ED008",
+    "amount": 9936,
+    "reward": 354
+  },
+  {
+    "userAddress": "0x8a13eD17ED25d5aDA430Da7959D626EBF693720d",
+    "amount": 6141,
+    "reward": 76
+  },
+  {
+    "userAddress": "0x7a4EaDBF596C7E8b261CD2D5ef47c03C320eA2E3",
+    "amount": 3128,
+    "reward": 209
+  },
+  {
+    "userAddress": "0x179E6774078f2933AD1F11034a41e17984edF73B",
+    "amount": 8543,
+    "reward": 759
+  },
+  {
+    "userAddress": "0xe3d95a05037C5a889bF24d0E2284BC60D520668F",
+    "amount": 3822,
+    "reward": 859
+  },
+  {
+    "userAddress": "0x59e97e3ec54198e95DfACA77280637A97C458014",
+    "amount": 8613,
+    "reward": 748
+  },
+  {
+    "userAddress": "0x2aB9f5af4f5f17312072434316b73CB1c5cFEB6C",
+    "amount": 2834,
+    "reward": 658
+  },
+  {
+    "userAddress": "0x306f8E8D3877C89eF0F044cf43a1A887ae23Dc7f",
+    "amount": 3160,
+    "reward": 702
+  },
+  {
+    "userAddress": "0x824455052b930228c6e8F0adDa468859243bcF9c",
+    "amount": 3014,
+    "reward": 747
+  },
+  {
+    "userAddress": "0x04343b253F751e1cE0D9228Cb5132BaE32d6E954",
+    "amount": 4467,
+    "reward": 802
+  },
+  {
+    "userAddress": "0x0905fB945592E7D445eAc766c418B59E4b0d547f",
+    "amount": 8287,
+    "reward": 644
+  },
+  {
+    "userAddress": "0x4CB5947E625D9a3F6B7CF04AF09f7FD9B4003Ca1",
+    "amount": 4034,
+    "reward": 839
+  },
+  {
+    "userAddress": "0xF28715E4D72f0f724202f9F79449FC71CeEE28a3",
+    "amount": 4662,
+    "reward": 938
+  },
+  {
+    "userAddress": "0xf8e7fE27Ae03060fCe058c9DCFA80FFdf2243e39",
+    "amount": 2745,
+    "reward": 476
+  },
+  {
+    "userAddress": "0xC83c5F983a1cB99221d78430D5519192787F4695",
+    "amount": 5378,
+    "reward": 232
+  },
+  {
+    "userAddress": "0x60816B77029326bca0AafD3B28c90dE3c4C09C3b",
+    "amount": 6900,
+    "reward": 459
+  },
+  {
+    "userAddress": "0xce999a644bEd222a75162f9E7cf5B2EFc5B14a26",
+    "amount": 5809,
+    "reward": 965
+  },
+  {
+    "userAddress": "0xFd7D627F1e94d5d290f671C8275dE4a544fF662A",
+    "amount": 5288,
+    "reward": 119
+  },
+  {
+    "userAddress": "0x45E7a52a413B8fAC2b50dc52999E08f3fcb0A4f7",
+    "amount": 4983,
+    "reward": 780
+  },
+  {
+    "userAddress": "0xE00955C3aAcc595Eeb1DBD1DBDBEee6b275D43B0",
+    "amount": 5571,
+    "reward": 453
+  },
+  {
+    "userAddress": "0x581Db8Eba3D21502b228587A2a4cAc58D2861Da0",
+    "amount": 3931,
+    "reward": 722
+  },
+  {
+    "userAddress": "0x946Cb41C1B024A8b452be4D9D9b5aC5b4E4bB430",
+    "amount": 3027,
+    "reward": 478
+  },
+  {
+    "userAddress": "0x400f0af1753534AFC9Fc91B23854938Baf2AdFc9",
+    "amount": 2709,
+    "reward": 442
+  },
+  {
+    "userAddress": "0x2C7e4587B24334e44751E6489D0C4F3f360187a0",
+    "amount": 7281,
+    "reward": 474
+  },
+  {
+    "userAddress": "0x45Eb8779166F15953EcDBfc42dC5B5c6D65E60f0",
+    "amount": 7016,
+    "reward": 862
+  },
+  {
+    "userAddress": "0x65D450244Fd3d1Fe28F3C9e3a4bF58913191384E",
+    "amount": 6780,
+    "reward": 308
+  },
+  {
+    "userAddress": "0x7D84D85D1616a5f990b6Ccd2B8fEB5a84f61906e",
+    "amount": 8463,
+    "reward": 926
+  },
+  {
+    "userAddress": "0x4E1019f05CBb27977c9df76C2d13506A67862072",
+    "amount": 1699,
+    "reward": 475
+  },
+  {
+    "userAddress": "0x77E694B8f9743846ec785ca923BCE228635E9307",
+    "amount": 2774,
+    "reward": 309
+  },
+  {
+    "userAddress": "0x2C87492e8C75735f3A5320EaA2b6149A9835585A",
+    "amount": 3512,
+    "reward": 325
+  },
+  {
+    "userAddress": "0xab8eDc957CD8623D1707ad9f502a6956aF38bbf5",
+    "amount": 3307,
+    "reward": 104
+  },
+  {
+    "userAddress": "0xA1dBf8f01C478b785E26029Ae0B24c4829F1ddE2",
+    "amount": 1696,
+    "reward": 577
+  },
+  {
+    "userAddress": "0x0884b491dfC373265a8C138479c8Cf5AD5008b5b",
+    "amount": 9996,
+    "reward": 833
+  },
+  {
+    "userAddress": "0x6AA0cc9333c22B064605C1b9edDf8aa7e78a6118",
+    "amount": 1189,
+    "reward": 632
+  },
+  {
+    "userAddress": "0x31a917d0ca4CbE536f10fd8169b155Ef8Fa5393C",
+    "amount": 1027,
+    "reward": 623
+  },
+  {
+    "userAddress": "0xf82D6504a2f140973E9921370cB0D3F5b8A72396",
+    "amount": 474,
+    "reward": 831
+  },
+  {
+    "userAddress": "0x4Ce11A3e095B2A4FB2875dbbf7aFc5ee52C00229",
+    "amount": 5057,
+    "reward": 825
+  },
+  {
+    "userAddress": "0x9FF23d39e695e895b09fB32479a78EeCc03a8919",
+    "amount": 5231,
+    "reward": 261
+  },
+  {
+    "userAddress": "0x2f1E5fFA459E69517b6c88FbC949B51a369A6F87",
+    "amount": 4282,
+    "reward": 366
+  },
+  {
+    "userAddress": "0xDc1BA51c7C1Cc48f4F62E4fb2b3e479949D24E64",
+    "amount": 2195,
+    "reward": 145
+  },
+  {
+    "userAddress": "0xd94e42C3696e8C24e57c30805abFe154D337fb73",
+    "amount": 9773,
+    "reward": 44
+  },
+  {
+    "userAddress": "0x7556a440F5A59683967C8C8601b44B99d2F0A147",
+    "amount": 4200,
+    "reward": 764
+  },
+  {
+    "userAddress": "0x4791d216C7035a068dF96065b946b1eF40bd50dB",
+    "amount": 4376,
+    "reward": 229
+  },
+  {
+    "userAddress": "0x22D71F4C45F8b039C54e0F79EA61388DE6FF1A28",
+    "amount": 1930,
+    "reward": 479
+  },
+  {
+    "userAddress": "0x203a9737D56D7c6f8bcBb02080Ea0CEfc124e3B8",
+    "amount": 6432,
+    "reward": 584
+  },
+  {
+    "userAddress": "0xf396b680CE095e09b523964714607E9b94d0BF29",
+    "amount": 4949,
+    "reward": 575
+  },
+  {
+    "userAddress": "0x8B7eeFB75695C38A37c654503F10392014270589",
+    "amount": 4284,
+    "reward": 286
+  },
+  {
+    "userAddress": "0xD7c122053D67c92e8e83724BA4a5546508C4391c",
+    "amount": 4167,
+    "reward": 983
+  },
+  {
+    "userAddress": "0x610a2e11cb5bEBA37Bf0A4bf39D0a4492Dc4e06a",
+    "amount": 9047,
+    "reward": 587
+  },
+  {
+    "userAddress": "0xd0F80de15cC8c59537B7D24154FdAb1cc1DF1a5B",
+    "amount": 8161,
+    "reward": 645
+  },
+  {
+    "userAddress": "0xe79AD0179d3DB49770A847Fd279117b11d4a2D09",
+    "amount": 7337,
+    "reward": 316
+  },
+  {
+    "userAddress": "0xa1E3c818520879691f753C2C57C998d52cA198B0",
+    "amount": 9363,
+    "reward": 757
+  },
+  {
+    "userAddress": "0xbf0D2216942473a95f8e5E1e7b61152CfFe66d5b",
+    "amount": 8486,
+    "reward": 721
+  },
+  {
+    "userAddress": "0x4dC1bc6D259790fB2b1706B63b8c597DDd0C2580",
+    "amount": 2078,
+    "reward": 682
+  },
+  {
+    "userAddress": "0xAF6cCefBba2F8710dF65DEf5C004Ce8d3999152f",
+    "amount": 9111,
+    "reward": 468
+  },
+  {
+    "userAddress": "0x0b8D2d6cF95590EA153571Cc0D3A0C30F474c557",
+    "amount": 172,
+    "reward": 676
+  },
+  {
+    "userAddress": "0xF115bD24fAF7e1952d1aE9210C534C6AA181046E",
+    "amount": 3766,
+    "reward": 92
+  },
+  {
+    "userAddress": "0x1E4e3AaB08884c234Cd7D9b6D9DB91c57398DE6F",
+    "amount": 5062,
+    "reward": 875
+  },
+  {
+    "userAddress": "0x917F3De2a74Ea737aA67972c5DE1EFd7f67a5ACD",
+    "amount": 3379,
+    "reward": 401
+  },
+  {
+    "userAddress": "0xb2b8c56a323EcE42ceeE2A1a5c4B30dc05591363",
+    "amount": 5325,
+    "reward": 398
+  },
+  {
+    "userAddress": "0xBd4850946cdF4B81260a4FF406111dc53B0488F4",
+    "amount": 4935,
+    "reward": 50
+  },
+  {
+    "userAddress": "0x87F0EB835868604e5e92Ca89d88b83Af1c5CC790",
+    "amount": 9050,
+    "reward": 978
+  },
+  {
+    "userAddress": "0x6061325d1A8AE2033C79be3A68f65dCDeA75752A",
+    "amount": 5443,
+    "reward": 83
+  },
+  {
+    "userAddress": "0xB2cCEe65Cd99d592376B808e4D031eCf9bEe519b",
+    "amount": 4706,
+    "reward": 391
+  },
+  {
+    "userAddress": "0xb6bC207dc629313d0B9420B10E12B7A50554E3Bf",
+    "amount": 3088,
+    "reward": 223
+  },
+  {
+    "userAddress": "0xD6FB8c4e714d46F4268524Dc0CFC91CEf1BF2bdd",
+    "amount": 3827,
+    "reward": 418
+  },
+  {
+    "userAddress": "0xeA077A3CD7d0AAbbD0C804A93C1CEAef986e726f",
+    "amount": 8685,
+    "reward": 115
+  },
+  {
+    "userAddress": "0xd8a4Eb85aE6e3A5f711dFE1f28Ab462175db97ab",
+    "amount": 1518,
+    "reward": 956
+  },
+  {
+    "userAddress": "0x99324ceF84c21911f4E1eFE0ba09BCE567d145B0",
+    "amount": 1327,
+    "reward": 345
+  },
+  {
+    "userAddress": "0x3a160E4A33A5816084D58E4c7Ac47061F0880971",
+    "amount": 2202,
+    "reward": 127
+  },
+  {
+    "userAddress": "0x8d43517991eE7207a0Fbe49Ba2D239d8b11eF3e4",
+    "amount": 4549,
+    "reward": 106
+  },
+  {
+    "userAddress": "0x915B9257C43541328F2042Bd2080Cbd6920e4F38",
+    "amount": 980,
+    "reward": 794
+  },
+  {
+    "userAddress": "0x21e68a249E11A4B8921B8d9C4d5eddBF29896A61",
+    "amount": 3929,
+    "reward": 793
+  },
+  {
+    "userAddress": "0x8951d8E7474477D34596C0d39572E9C72331CDB9",
+    "amount": 7969,
+    "reward": 625
+  },
+  {
+    "userAddress": "0xfd4B734b8E195E9926b4A1D0982F02072DD66364",
+    "amount": 3650,
+    "reward": 707
+  },
+  {
+    "userAddress": "0x3b7f0D179EC5762CC06eF97205864dF087Bc6F8d",
+    "amount": 2123,
+    "reward": 863
+  },
+  {
+    "userAddress": "0x027eD9fd8A2Da6C4998d27a9a7dd4afCc933E510",
+    "amount": 3643,
+    "reward": 133
+  },
+  {
+    "userAddress": "0xE04D5563A2B44901c2EaD50E2Eb27B9a72e42647",
+    "amount": 1429,
+    "reward": 632
+  },
+  {
+    "userAddress": "0xb4D1a86D2c269d7A120179115185D81e1bc12985",
+    "amount": 9714,
+    "reward": 41
+  },
+  {
+    "userAddress": "0x6491eC7887fc1042dc15080B27853C9e4e3A1Bd7",
+    "amount": 3578,
+    "reward": 938
+  },
+  {
+    "userAddress": "0x4A5074148Ab7b34E264615A1B1AB61988dDfa33C",
+    "amount": 506,
+    "reward": 593
+  },
+  {
+    "userAddress": "0x0c11aB584d858a514CA23219eC5B0478Fc04De67",
+    "amount": 5121,
+    "reward": 995
+  },
+  {
+    "userAddress": "0xbDeE0178d6e07dCfBB0f992BbBd913B003848C72",
+    "amount": 5771,
+    "reward": 258
+  },
+  {
+    "userAddress": "0x79Dee5319Ac1e8270AE006cD26B04a320dE87f1e",
+    "amount": 5754,
+    "reward": 557
+  },
+  {
+    "userAddress": "0x53AFE2A54f1e3dC65490ef889b913ec776BA8822",
+    "amount": 2221,
+    "reward": 341
+  },
+  {
+    "userAddress": "0x446240608aBFac2F655ad339412F28eB5cf7846d",
+    "amount": 6364,
+    "reward": 750
+  },
+  {
+    "userAddress": "0x63771C35f9CB2bd5A71a2233DB982d486654908F",
+    "amount": 156,
+    "reward": 954
+  },
+  {
+    "userAddress": "0x08165aA29056BA4c5915527a710Fb88Db7bEAfC2",
+    "amount": 38,
+    "reward": 669
+  },
+  {
+    "userAddress": "0xB96C33E6a74bc00454Ef2e901A7072071C5F4bE5",
+    "amount": 8061,
+    "reward": 66
+  },
+  {
+    "userAddress": "0x71D73B93Aaf8369bEcd05Be7321AE8Ef3158b39c",
+    "amount": 564,
+    "reward": 328
+  },
+  {
+    "userAddress": "0x946c39644696847e7a6c526c465E388C055D0264",
+    "amount": 8052,
+    "reward": 377
+  },
+  {
+    "userAddress": "0x0CD845D762544A7D8173929021a7D1579B323878",
+    "amount": 9299,
+    "reward": 283
+  },
+  {
+    "userAddress": "0x4aA83A49a9E186fD6507599F0aa868d82a221d30",
+    "amount": 3544,
+    "reward": 600
+  },
+  {
+    "userAddress": "0x843E936a2e75014283C78C670b2925Ba65DE068E",
+    "amount": 3465,
+    "reward": 568
+  },
+  {
+    "userAddress": "0x82332ED3D2A33128c934827F21B0B273F947690e",
+    "amount": 6987,
+    "reward": 690
+  },
+  {
+    "userAddress": "0xAc7C652149EBcD765be40B1A28771c2366aFF0a4",
+    "amount": 5520,
+    "reward": 649
+  },
+  {
+    "userAddress": "0xec6e56eD8F4bc4decBD4F5e4224a8A67d4b88199",
+    "amount": 2907,
+    "reward": 766
+  },
+  {
+    "userAddress": "0xa5cAB2A89cC9680896AbE0E35Cf3f20AaB63f0D9",
+    "amount": 7421,
+    "reward": 167
+  },
+  {
+    "userAddress": "0x63c3ACd06976Ab5773DBa071b4c0E77762c1fDfd",
+    "amount": 614,
+    "reward": 846
+  },
+  {
+    "userAddress": "0x96413d79E0ebB5EA22D3265430ADe72104C98091",
+    "amount": 4564,
+    "reward": 195
+  },
+  {
+    "userAddress": "0x405e1E6318a5dd498552AdfE815827a61BF0F58f",
+    "amount": 3255,
+    "reward": 954
+  },
+  {
+    "userAddress": "0x357838E034B02F12fa3084451b7207B1A27D7762",
+    "amount": 2863,
+    "reward": 446
+  },
+  {
+    "userAddress": "0xFaa144F2d949248F5651F5924507B7049C1daE97",
+    "amount": 1888,
+    "reward": 578
+  },
+  {
+    "userAddress": "0xF3DDCbAfC3EDfBDBaE37aBd8816c9f86f5F2818b",
+    "amount": 4465,
+    "reward": 294
+  },
+  {
+    "userAddress": "0x0351CFE76B428cfE53658F54082dB7f45adAAd0e",
+    "amount": 1830,
+    "reward": 542
+  },
+  {
+    "userAddress": "0x719730d04f5c5E0Ff933C358baDca194187C07C5",
+    "amount": 5671,
+    "reward": 216
+  },
+  {
+    "userAddress": "0x0221F8EC650Fd9182d046801C5f1e79092C0278d",
+    "amount": 5763,
+    "reward": 133
+  },
+  {
+    "userAddress": "0x1ED00B723EBEF2c52c1a22687fFd368a71da7023",
+    "amount": 8377,
+    "reward": 538
+  },
+  {
+    "userAddress": "0xEaF847CBd3b024642E596c5023F48af4538F8aD1",
+    "amount": 4207,
+    "reward": 883
+  },
+  {
+    "userAddress": "0xDCd355a24750A21F567b8C0d22673f187DD31f27",
+    "amount": 5928,
+    "reward": 561
+  },
+  {
+    "userAddress": "0x4D64ce6342fAE8b8f97c1EABa0dAA4f627705EED",
+    "amount": 9978,
+    "reward": 62
+  },
+  {
+    "userAddress": "0x6Cc0F0E298B7Ddb1F20E7f9e7AfDbBEDB7bC862E",
+    "amount": 1899,
+    "reward": 957
+  },
+  {
+    "userAddress": "0xA9213765aa57a5EF8d25D8CE24B8F74c9DF3467e",
+    "amount": 521,
+    "reward": 283
+  },
+  {
+    "userAddress": "0x182d0C16e56D5D8F657a41DA8bea10591bc4a065",
+    "amount": 8139,
+    "reward": 951
+  },
+  {
+    "userAddress": "0xf8857F7d94f1Fd0883c0d4761EEc80224047a8da",
+    "amount": 575,
+    "reward": 717
+  },
+  {
+    "userAddress": "0x53CED96dd6D912e1e4E4d10E4535B9A5cb707dc9",
+    "amount": 2496,
+    "reward": 285
+  },
+  {
+    "userAddress": "0x0ba06b2F53a9b3f63554acaaE7603297ea74Ef06",
+    "amount": 6332,
+    "reward": 581
+  },
+  {
+    "userAddress": "0x3048638b7CA13dda350c267797CEa15763F1A130",
+    "amount": 2210,
+    "reward": 207
+  },
+  {
+    "userAddress": "0xD66EE8Bcf1ab3D4F7f02C76aDa0824BB218E2Bf0",
+    "amount": 5313,
+    "reward": 635
+  },
+  {
+    "userAddress": "0x250F2047a098Fced22D496ab65627F16f9106823",
+    "amount": 2800,
+    "reward": 155
+  },
+  {
+    "userAddress": "0x49AA572D93E68CaAE2276bE7FD6F157ec5F475c9",
+    "amount": 2522,
+    "reward": 537
+  },
+  {
+    "userAddress": "0x2BB08cC951c53ee31D2e1BeD881db21B784F8Eb7",
+    "amount": 4559,
+    "reward": 23
+  },
+  {
+    "userAddress": "0xA42FFB02531eF5c61dda3d1496ce9CB77846F324",
+    "amount": 2101,
+    "reward": 394
+  },
+  {
+    "userAddress": "0x9dCd86179c81949B1b3De9E9F4799FfE691fc05a",
+    "amount": 7432,
+    "reward": 211
+  },
+  {
+    "userAddress": "0x55ccee714051aA30af62b300617f594AAe7505af",
+    "amount": 8414,
+    "reward": 403
+  },
+  {
+    "userAddress": "0xDda9a67d061dDd751CFF3351dD38D7d90058D693",
+    "amount": 971,
+    "reward": 36
+  },
+  {
+    "userAddress": "0x8EdA1Ea4D4F8D7E456f478c5423fcbe525F970c9",
+    "amount": 6830,
+    "reward": 539
+  },
+  {
+    "userAddress": "0x66Cf3Af573A72835e51cc5eFc1d22F9CDadd5318",
+    "amount": 9210,
+    "reward": 961
+  },
+  {
+    "userAddress": "0x73B46ee17D3172db292b499f498ec2a0a9fe230D",
+    "amount": 1829,
+    "reward": 248
+  },
+  {
+    "userAddress": "0x48f9Ad843b620F11F0B17947ad94Bb3dE09CF72d",
+    "amount": 73,
+    "reward": 474
+  },
+  {
+    "userAddress": "0xceCfD482bdf19F6E98AdB520aE33535b1aC5337A",
+    "amount": 1032,
+    "reward": 274
+  },
+  {
+    "userAddress": "0x57985639c7d06Ea4a3f2D4E6aD2242F2104FB1B6",
+    "amount": 1800,
+    "reward": 94
+  },
+  {
+    "userAddress": "0x86aC737B9D35a3bbC0A33bBd9878Fe2A204aDf32",
+    "amount": 6055,
+    "reward": 256
+  },
+  {
+    "userAddress": "0x4507A26C6CE3688f3D5F8a6e6d4B739711B9534F",
+    "amount": 4992,
+    "reward": 594
+  },
+  {
+    "userAddress": "0x099AC573137Ce94a0EbaF1379E55bF1C722DdF83",
+    "amount": 8181,
+    "reward": 455
+  },
+  {
+    "userAddress": "0x0abb6fa60377ec1745Cd715AaF2D8131575a2120",
+    "amount": 1740,
+    "reward": 658
+  },
+  {
+    "userAddress": "0x5B63ABCEaFe8b021cB0A1f2D9acc93fD0eBd8519",
+    "amount": 8460,
+    "reward": 711
+  },
+  {
+    "userAddress": "0xcD438776efd2609d761Dd2955Ec32CE41b520603",
+    "amount": 710,
+    "reward": 300
+  },
+  {
+    "userAddress": "0x23256123e0294B37D9CB8b9Eb432f446947200D6",
+    "amount": 1892,
+    "reward": 643
+  },
+  {
+    "userAddress": "0x75C54e83ADfa857396f270550F433F858596eA9C",
+    "amount": 4914,
+    "reward": 933
+  },
+  {
+    "userAddress": "0x88bda4435562A990B5236e7e8A96a9701f8F088b",
+    "amount": 352,
+    "reward": 731
+  },
+  {
+    "userAddress": "0x36076fAdCE10A09cD431ecb15cD30b2757782c2D",
+    "amount": 7503,
+    "reward": 97
+  },
+  {
+    "userAddress": "0x285281879d0C065BF9C6D2225357739B842733cD",
+    "amount": 2485,
+    "reward": 94
+  },
+  {
+    "userAddress": "0x5fC0f96EcBA7B95C1FA6b5eeC34Ca928B516368d",
+    "amount": 7604,
+    "reward": 641
+  },
+  {
+    "userAddress": "0x5059188f661d8225a9b8Bba53C70298c792526b8",
+    "amount": 4022,
+    "reward": 398
+  },
+  {
+    "userAddress": "0x169c535cf9D7604f0B0735FED08bc7aeD02EeB4F",
+    "amount": 9697,
+    "reward": 369
+  },
+  {
+    "userAddress": "0xA665441d43e1eFFd867bfad0C70E925F3CA95cB0",
+    "amount": 2155,
+    "reward": 632
+  },
+  {
+    "userAddress": "0x77040b150BfeE0B4cad0441C98EeF8dD966f2EF7",
+    "amount": 6101,
+    "reward": 110
+  },
+  {
+    "userAddress": "0xaCA199C538AD7064DD32633508Af802cc1be6f76",
+    "amount": 9974,
+    "reward": 936
+  },
+  {
+    "userAddress": "0xEF5D4DF91d6e2750E72bbc122Cc80F5cdB6353D4",
+    "amount": 1120,
+    "reward": 752
+  },
+  {
+    "userAddress": "0x5Be45657a3Cf8F2370B547f86f9D81a69fC33247",
+    "amount": 9542,
+    "reward": 241
+  },
+  {
+    "userAddress": "0xCE5e144dCbeB2157A2Ab6fED20D8Aa6160A45f79",
+    "amount": 9300,
+    "reward": 432
+  },
+  {
+    "userAddress": "0xcA8A940693AdA0E42a14dC7DbEf1baE0cc7c5cDf",
+    "amount": 2870,
+    "reward": 614
+  },
+  {
+    "userAddress": "0x063283B7D7fFd0A99CFF5777B9F62E07349Fcf7c",
+    "amount": 283,
+    "reward": 841
+  },
+  {
+    "userAddress": "0xa6fec6496550fDE978BD7E194A4D8Df133Af3E56",
+    "amount": 4049,
+    "reward": 474
+  },
+  {
+    "userAddress": "0x623b657A8A3E842d6C8856540362730128743c39",
+    "amount": 4597,
+    "reward": 86
+  },
+  {
+    "userAddress": "0xA497B8d5b1C4A16Aa0543De54D5C5EF6B9af7452",
+    "amount": 7043,
+    "reward": 326
+  },
+  {
+    "userAddress": "0x0c257d48b222cdee309727f551661630e92c2D88",
+    "amount": 1477,
+    "reward": 223
+  },
+  {
+    "userAddress": "0x11E4837b9473d60A72D741134ce311223eA0Df96",
+    "amount": 6336,
+    "reward": 707
+  },
+  {
+    "userAddress": "0xc0B66723916E6c28341850Baf28699E3D0c4f1C4",
+    "amount": 742,
+    "reward": 535
+  },
+  {
+    "userAddress": "0x91Fd97E9C00CB3c8B198c5A0243C25F9d011F7bc",
+    "amount": 340,
+    "reward": 766
+  },
+  {
+    "userAddress": "0xA3c541499dF5444a61EC376c06E397B7694669fb",
+    "amount": 7676,
+    "reward": 61
+  },
+  {
+    "userAddress": "0xF16329d2a07478f492a9d23A15fDd8725f9A1B4e",
+    "amount": 9538,
+    "reward": 853
+  },
+  {
+    "userAddress": "0xA52008A69c4889aFA8d3F6E5e5B3337cD9bb42cd",
+    "amount": 429,
+    "reward": 613
+  },
+  {
+    "userAddress": "0x7650e7B3A85C7417D8FAF454C72D15CB6B879686",
+    "amount": 22,
+    "reward": 590
+  },
+  {
+    "userAddress": "0x03725aBb5B0DEa3aF023293FCaE393ea2C7E3daa",
+    "amount": 9223,
+    "reward": 496
+  },
+  {
+    "userAddress": "0x43fE5615619d600C30084a72aBeFd51c0C65B7BB",
+    "amount": 9249,
+    "reward": 51
+  },
+  {
+    "userAddress": "0xba4177f864f368e14DcF19e847698E8Ae8C4925D",
+    "amount": 9297,
+    "reward": 676
+  },
+  {
+    "userAddress": "0x9e6448E2Ec220f4AF979B71DD154D4B5B93093ee",
+    "amount": 9817,
+    "reward": 243
+  },
+  {
+    "userAddress": "0xC1c16cDee08933f32BC80245f24979227dc208fE",
+    "amount": 9012,
+    "reward": 126
+  },
+  {
+    "userAddress": "0x411107513C45b41cDD7E876470191A2B6Cd2DcF5",
+    "amount": 9506,
+    "reward": 463
+  },
+  {
+    "userAddress": "0x8Db88Bc41fF5d9B0F883e79B29CC326F1fE2abb2",
+    "amount": 490,
+    "reward": 365
+  },
+  {
+    "userAddress": "0xDB12b9a7002F075fd3105227BF699ebc2F00DD47",
+    "amount": 165,
+    "reward": 182
+  },
+  {
+    "userAddress": "0xBaC2B0C585F47C3835fF03E095c389d12Ba08c32",
+    "amount": 4732,
+    "reward": 915
+  },
+  {
+    "userAddress": "0xa8DcA11eDb8EEbAa11c8887a57e0C7AC2333E0f3",
+    "amount": 2246,
+    "reward": 537
+  },
+  {
+    "userAddress": "0x8c4b509f0fC71443Ee2D2c6d61af7d88dC19A990",
+    "amount": 6832,
+    "reward": 658
+  },
+  {
+    "userAddress": "0x14fF2eFC54052b3bD87A713cB5Bc69b8BD1eD8af",
+    "amount": 8892,
+    "reward": 816
+  },
+  {
+    "userAddress": "0xa2FFDd742726F21b2c8D8E96Eb55989161476Fe4",
+    "amount": 867,
+    "reward": 180
+  },
+  {
+    "userAddress": "0x1D834F7a04b6BA9DaA9E2699B3E2041FD7839adc",
+    "amount": 4119,
+    "reward": 548
+  },
+  {
+    "userAddress": "0xE9CfA8D08f37ef8aBCF9058Bbd56E04f1b8d0e0c",
+    "amount": 7625,
+    "reward": 729
+  },
+  {
+    "userAddress": "0xDb4F6fAeE53545167BC39BbbA8aEFFD589328DfF",
+    "amount": 9554,
+    "reward": 747
+  },
+  {
+    "userAddress": "0xE1e509C91AEFD4329B05179BF5dd8AF7DAb44E7C",
+    "amount": 4594,
+    "reward": 520
+  },
+  {
+    "userAddress": "0x2041b6974A78fD33376a51520dB8d159FA62e29d",
+    "amount": 3349,
+    "reward": 944
+  },
+  {
+    "userAddress": "0x504008D5aa42a522437Ce4f68efc69502dA0aE87",
+    "amount": 7635,
+    "reward": 848
+  },
+  {
+    "userAddress": "0xe4B4E9Dff3Be7b4E13651c23881Cf919Dc6411ff",
+    "amount": 8628,
+    "reward": 179
+  },
+  {
+    "userAddress": "0x6043e0165393FdBB05B4c5f32fe3327df640B1B0",
+    "amount": 8405,
+    "reward": 878
+  },
+  {
+    "userAddress": "0x35Da8aE6262cf62ca97E3881d88b3972554f566d",
+    "amount": 673,
+    "reward": 348
+  },
+  {
+    "userAddress": "0x54354C700fcF3573e8B161B5Ff1Bff06cC022D0c",
+    "amount": 3805,
+    "reward": 706
+  },
+  {
+    "userAddress": "0xA33b8abbb449F0dF5d3e9A4801f6f79c78397A06",
+    "amount": 9087,
+    "reward": 680
+  },
+  {
+    "userAddress": "0x9d4a587Bd6a63E9a6D6C62995919b80DB8019e05",
+    "amount": 5890,
+    "reward": 546
+  },
+  {
+    "userAddress": "0xbDf0009F600fdd3971697E3AA972b7B5F66AcBe2",
+    "amount": 7201,
+    "reward": 27
+  },
+  {
+    "userAddress": "0x64e98373D4B7d8c51D3261B1Ea5cf55bc0eC4774",
+    "amount": 3471,
+    "reward": 610
+  },
+  {
+    "userAddress": "0x7822B3a7d3E142e68d08D9BB767b45888Cd749b6",
+    "amount": 5550,
+    "reward": 782
+  },
+  {
+    "userAddress": "0xd8A1b9f012Cb3078A36F6aC408ACc006b91D02C2",
+    "amount": 1680,
+    "reward": 299
+  },
+  {
+    "userAddress": "0xceaa884eBa6ffa1e91619Eea2afCbDCD04C8FB3C",
+    "amount": 5296,
+    "reward": 379
+  },
+  {
+    "userAddress": "0x83975C1564bd839519042d0D1fdA96000e07FF86",
+    "amount": 3057,
+    "reward": 435
+  },
+  {
+    "userAddress": "0x63A89A1413B40ed94516d6A9FF6828C790D58744",
+    "amount": 967,
+    "reward": 921
+  },
+  {
+    "userAddress": "0x6591c1b0ef41Cc08a9337424574D390C085abE58",
+    "amount": 885,
+    "reward": 296
+  },
+  {
+    "userAddress": "0xFe66c818DDAB47EFF1d330C6828FAb34d4eEa57B",
+    "amount": 5096,
+    "reward": 477
+  },
+  {
+    "userAddress": "0xAb17ec9307c5b090B83847c766309C4e3043bA27",
+    "amount": 7221,
+    "reward": 674
+  },
+  {
+    "userAddress": "0x3A3820410247B9FeF0559781f9c9c09696Fc1304",
+    "amount": 1041,
+    "reward": 150
+  },
+  {
+    "userAddress": "0x940a314C08792aA1927ce09920bCdB24BDd30B8D",
+    "amount": 4703,
+    "reward": 391
+  },
+  {
+    "userAddress": "0x8eE192e4F2c88076B6a37CA1AaFF191a543C80A9",
+    "amount": 1343,
+    "reward": 577
+  },
+  {
+    "userAddress": "0xdFDF9cb70fAbcE31c380426E3bE2e0CCa200adEE",
+    "amount": 7038,
+    "reward": 204
+  },
+  {
+    "userAddress": "0x720CD5E08d38690201eeF2d22c0b6B3a94E59102",
+    "amount": 4067,
+    "reward": 227
+  },
+  {
+    "userAddress": "0x1226BEC12e72B4e088777f4293D62e796f97eDDb",
+    "amount": 5409,
+    "reward": 438
+  },
+  {
+    "userAddress": "0x6aB3B1E284f25E9323F3DCA1DfFE2e4EcC7016d7",
+    "amount": 6566,
+    "reward": 720
+  },
+  {
+    "userAddress": "0xcc371A5dAed057b0abB256e7953CA8F522725Fc6",
+    "amount": 7273,
+    "reward": 2
+  },
+  {
+    "userAddress": "0xBEe66088B2702Bf9C98C86A0D276df14B32fdC79",
+    "amount": 7968,
+    "reward": 512
+  },
+  {
+    "userAddress": "0x5134e3Fc576E410158dD037E37170B2D03e49Baa",
+    "amount": 4622,
+    "reward": 524
+  },
+  {
+    "userAddress": "0x94A4EF12682D17AE1c9d2ba3a11E3e78f7c79793",
+    "amount": 432,
+    "reward": 934
+  },
+  {
+    "userAddress": "0xB8D34136AD641338Dc25702B47C3fD9ccC837dC3",
+    "amount": 4568,
+    "reward": 543
+  },
+  {
+    "userAddress": "0x6711A72C1C3E8734b79B03f89529e7E9186E5101",
+    "amount": 658,
+    "reward": 153
+  },
+  {
+    "userAddress": "0x9332185875Ff20C12D725B0134CbbD2a93c56B52",
+    "amount": 9227,
+    "reward": 317
+  },
+  {
+    "userAddress": "0xE2D14224cC85d17490087496AAe70ceDfe7D6D02",
+    "amount": 1745,
+    "reward": 975
+  },
+  {
+    "userAddress": "0xC02EfC92515614810E0318A8b20933d8daA37e36",
+    "amount": 9414,
+    "reward": 791
+  },
+  {
+    "userAddress": "0xAF9f692A7e0866136c5ED808609e985D19426C9c",
+    "amount": 2550,
+    "reward": 577
+  },
+  {
+    "userAddress": "0x63B50143124f259911d4bE9EBF0E9b512Dd0450f",
+    "amount": 5458,
+    "reward": 674
+  },
+  {
+    "userAddress": "0xf0532aB371513114C91d65E78Fb5Ec6c980465fc",
+    "amount": 3561,
+    "reward": 921
+  },
+  {
+    "userAddress": "0x3C36E1439CCA77F9523Cf5c14ced160425073998",
+    "amount": 4492,
+    "reward": 628
+  },
+  {
+    "userAddress": "0xc443e30016Ed9905EEa1d0Aa2D7c93986fC83Ecd",
+    "amount": 6219,
+    "reward": 66
+  },
+  {
+    "userAddress": "0xd587feb04d13592C4502754be067b9791444d52d",
+    "amount": 7718,
+    "reward": 393
+  },
+  {
+    "userAddress": "0x9B002f089312db69E1462c87f13F2a77A248B307",
+    "amount": 9630,
+    "reward": 621
+  },
+  {
+    "userAddress": "0xe2b45ED0920e43FF9D9844Fa3f51b0281aD521d9",
+    "amount": 1847,
+    "reward": 760
+  },
+  {
+    "userAddress": "0x5ca6C37277619eD787A1C334f5957Ab604FfD898",
+    "amount": 8818,
+    "reward": 962
+  },
+  {
+    "userAddress": "0x6968F39b220Cf4cbfDf173b4827f5cC27E0ABA16",
+    "amount": 89,
+    "reward": 430
+  },
+  {
+    "userAddress": "0xf8E48bC9961e79f705bC394B8EB8a9591516cc8D",
+    "amount": 6973,
+    "reward": 28
+  },
+  {
+    "userAddress": "0xBDf4B65F503768EB98f09C70d012212F27D1922f",
+    "amount": 5843,
+    "reward": 288
+  },
+  {
+    "userAddress": "0x60157425c5C0B02f049a0d433B5852E3d068EAA7",
+    "amount": 789,
+    "reward": 79
+  },
+  {
+    "userAddress": "0x77B89Da91E379F14e49FFEfA6193a637E17b9D89",
+    "amount": 126,
+    "reward": 73
+  },
+  {
+    "userAddress": "0x899A48509dB07A86b5a7a31De2d4F3bD7D1047D5",
+    "amount": 1326,
+    "reward": 460
+  },
+  {
+    "userAddress": "0x5142F3dFC32412a2e40202c13DD28754500525F4",
+    "amount": 4922,
+    "reward": 167
+  },
+  {
+    "userAddress": "0x84F4fD3d96fBBF2CC60e7af47f7d2b4530158856",
+    "amount": 1684,
+    "reward": 944
+  },
+  {
+    "userAddress": "0xEc073c7b7afD3EB73CA4fB8707B7e4F5D52efcB3",
+    "amount": 3423,
+    "reward": 280
+  },
+  {
+    "userAddress": "0x358a8A421282b229F5a1747E71328659Da225B2C",
+    "amount": 8102,
+    "reward": 510
+  },
+  {
+    "userAddress": "0x6402268098ADACb4e92E96c351d50979583F80b6",
+    "amount": 378,
+    "reward": 217
+  },
+  {
+    "userAddress": "0xc62f436fbD5c40B8623494022A060054AeF9b40b",
+    "amount": 988,
+    "reward": 684
+  },
+  {
+    "userAddress": "0xf10Ff991B854344ca2D89A30542138E91C950889",
+    "amount": 524,
+    "reward": 698
+  },
+  {
+    "userAddress": "0x2c08847FD0536C485c4c0dcC8A8b66d3aCa1b678",
+    "amount": 7840,
+    "reward": 571
+  },
+  {
+    "userAddress": "0x1106428D8e11d9b1A6Ef3dd29585cCb18FA0eACd",
+    "amount": 8382,
+    "reward": 426
+  },
+  {
+    "userAddress": "0x614b1Ffc0Aa1A99003Cc41928c2D3b55E15E65f8",
+    "amount": 7578,
+    "reward": 955
+  },
+  {
+    "userAddress": "0x79191846978Df43e3493C4c6E0DCa42cCcb673b6",
+    "amount": 3349,
+    "reward": 429
+  },
+  {
+    "userAddress": "0x0CEDF9327D47D4EF186d831d1aF97d8E47b9A783",
+    "amount": 8477,
+    "reward": 19
+  },
+  {
+    "userAddress": "0x1E00C8389789b3C55Ec5d34eD70a8B2d8EC1A532",
+    "amount": 9992,
+    "reward": 470
+  },
+  {
+    "userAddress": "0x330b2C143e24e7B09ffeFdf0eE3DA44bA4eEE10A",
+    "amount": 4318,
+    "reward": 164
+  },
+  {
+    "userAddress": "0x827f509210F50E9B2e3d174997397C63f41b9591",
+    "amount": 6347,
+    "reward": 298
+  },
+  {
+    "userAddress": "0xF1d4b626622f58c08e43E19c4579638E1565d064",
+    "amount": 7936,
+    "reward": 200
+  },
+  {
+    "userAddress": "0x2A8a08fA42979ff96B24d311Be97bfAF3F23882B",
+    "amount": 2475,
+    "reward": 415
+  },
+  {
+    "userAddress": "0xD690964347632652dDFbCB63c9Fb1E6a05cE4a09",
+    "amount": 1192,
+    "reward": 580
+  },
+  {
+    "userAddress": "0x3952F4A2119C494AA059f343481e7316F721fA98",
+    "amount": 2462,
+    "reward": 553
+  },
+  {
+    "userAddress": "0x377Cb1134806467BBeDA048Db422F76408091857",
+    "amount": 5589,
+    "reward": 10
+  },
+  {
+    "userAddress": "0x57F74e839aaF22b480Db3CB876806b5838ac8Cf4",
+    "amount": 6519,
+    "reward": 201
+  },
+  {
+    "userAddress": "0x8808534B8CB9c90eA53F9341a70024490a7C84fd",
+    "amount": 9531,
+    "reward": 752
+  },
+  {
+    "userAddress": "0x1656e7c33BC737Da79F52804FD0B25149FaBF48f",
+    "amount": 7300,
+    "reward": 849
+  },
+  {
+    "userAddress": "0xf1CC3fE6C20f04e365ddba1Fd97F070Cb8Bb0DCc",
+    "amount": 652,
+    "reward": 930
+  },
+  {
+    "userAddress": "0x49B065bDE02079dD2612184F9A61C769e977Ebd8",
+    "amount": 7294,
+    "reward": 796
+  },
+  {
+    "userAddress": "0x1370a1F95f517E0446c86aA4cb3e99D64c367D67",
+    "amount": 7391,
+    "reward": 233
+  },
+  {
+    "userAddress": "0x9f530FbDB71605Fd3404BF54f9AA6854b5191A32",
+    "amount": 4277,
+    "reward": 973
+  },
+  {
+    "userAddress": "0x3aDE1c74268aC7b35E3747ef77169746D8e4F1E2",
+    "amount": 1587,
+    "reward": 720
+  },
+  {
+    "userAddress": "0x64EAa545C9C6476C594Ca3C1Ad6C71308A8F02C2",
+    "amount": 1012,
+    "reward": 240
+  },
+  {
+    "userAddress": "0xd4590cddF161Cc07870d29a365228bf444111531",
+    "amount": 7933,
+    "reward": 159
+  },
+  {
+    "userAddress": "0xb9eE6526ADCca51ab9c3506e902fBA913B7c9A4a",
+    "amount": 7166,
+    "reward": 917
+  },
+  {
+    "userAddress": "0x0ad572D35ab14ABDd49725bC607092840fdb95F1",
+    "amount": 2278,
+    "reward": 277
+  },
+  {
+    "userAddress": "0x7d0ccA54a34E7364163e03D5654985aD3337F895",
+    "amount": 422,
+    "reward": 313
+  },
+  {
+    "userAddress": "0x8DDA522f83c12bbcEA23766b21d5a8080E89F4d4",
+    "amount": 8481,
+    "reward": 276
+  },
+  {
+    "userAddress": "0x36A03D517C2488DaaC8e3A7D03Da670D830606cF",
+    "amount": 2256,
+    "reward": 619
+  },
+  {
+    "userAddress": "0x2311076b0F884eC1d7536aC7b9BcA7003A2C6FfD",
+    "amount": 8512,
+    "reward": 355
+  },
+  {
+    "userAddress": "0x7b371758C69F6F6e9cFc34B7ceF8E38eb172d1F6",
+    "amount": 7060,
+    "reward": 372
+  },
+  {
+    "userAddress": "0x5206B4dC8AaBeEBF88967F063FD415284413a3d0",
+    "amount": 4569,
+    "reward": 697
+  },
+  {
+    "userAddress": "0x238B37Ae47F7756C3724f7E2b21D35768642DFe3",
+    "amount": 4591,
+    "reward": 996
+  },
+  {
+    "userAddress": "0x6dAB6F7f607E7922Ff8B59AA47D2942009686186",
+    "amount": 5211,
+    "reward": 743
+  },
+  {
+    "userAddress": "0xcBD8E75a12a1d716228798163fd1f1861CD58f9a",
+    "amount": 7634,
+    "reward": 555
+  },
+  {
+    "userAddress": "0x7287C153987E9Be2432022611d41C57c9B775082",
+    "amount": 5306,
+    "reward": 669
+  },
+  {
+    "userAddress": "0x6a23F533B9E3Ed45B2030998859bdD524F459D2f",
+    "amount": 189,
+    "reward": 342
+  },
+  {
+    "userAddress": "0xE4d04fC8C329E9E9eaab5BB08C25A6F5E4Ed9F3f",
+    "amount": 7138,
+    "reward": 895
+  },
+  {
+    "userAddress": "0xC88e5F01F4db586743ec24Fe9821a9074ce697cd",
+    "amount": 3824,
+    "reward": 210
+  },
+  {
+    "userAddress": "0x7E846fcBB8Aa4207031dCd6a1fd6a57c1531A227",
+    "amount": 6781,
+    "reward": 957
+  },
+  {
+    "userAddress": "0xC970085F245C273eE40BD7f14aed1C7D6CDd1758",
+    "amount": 865,
+    "reward": 819
+  },
+  {
+    "userAddress": "0x68FFD03C3609A60fC1a1fDAe3D2f9b146Eae96B3",
+    "amount": 2941,
+    "reward": 286
+  },
+  {
+    "userAddress": "0x5A92572318aEF84686A932606c9379a97dBa53A1",
+    "amount": 9609,
+    "reward": 244
+  },
+  {
+    "userAddress": "0x8bA9198d73783f395039ECDA6ce9bC2CEE8535B5",
+    "amount": 683,
+    "reward": 426
+  },
+  {
+    "userAddress": "0x6095adf8e1f277466f484625aE0aD0068d610b87",
+    "amount": 8730,
+    "reward": 25
+  },
+  {
+    "userAddress": "0x179292BBB52F4f55aCdA528aD96507DBF284B6b3",
+    "amount": 6675,
+    "reward": 957
+  },
+  {
+    "userAddress": "0x7cEE2509461aFbC3c71303a63Fe4032c545E6427",
+    "amount": 2592,
+    "reward": 324
+  },
+  {
+    "userAddress": "0xc1229A249ad0DaDA9A072431c116763176c69005",
+    "amount": 8240,
+    "reward": 909
+  },
+  {
+    "userAddress": "0xc50E2926F57453959d437D7b7F725781FA135d46",
+    "amount": 5890,
+    "reward": 51
+  },
+  {
+    "userAddress": "0x0D6f8aACF6813e1049a3158ecB54078ddb38c143",
+    "amount": 252,
+    "reward": 622
+  },
+  {
+    "userAddress": "0x0242c3d3c8Fc7a67dbe286B7e3Af130c0E3bd113",
+    "amount": 8948,
+    "reward": 638
+  },
+  {
+    "userAddress": "0x707189b4500C25de85Cc390F50742528e35edEC3",
+    "amount": 497,
+    "reward": 350
+  },
+  {
+    "userAddress": "0xe6bE07cAdB42d72d895B277208A0231a203c8840",
+    "amount": 7287,
+    "reward": 620
+  },
+  {
+    "userAddress": "0xA9445927b8A590b665DcF3B9f96b45356944FBf3",
+    "amount": 9004,
+    "reward": 307
+  },
+  {
+    "userAddress": "0xb944E3A5a507b66637641fEC2468E7E6d6371733",
+    "amount": 4818,
+    "reward": 341
+  },
+  {
+    "userAddress": "0x37fCf4D57F42D9972665C0c2e7dC58a78733858d",
+    "amount": 2732,
+    "reward": 554
+  },
+  {
+    "userAddress": "0x174eB4DE4EccceC4dd3B7D8a8282fD57425A5e02",
+    "amount": 2945,
+    "reward": 769
+  },
+  {
+    "userAddress": "0x989C65ffeF8a51A0DbcDD13028008d9D62904E6d",
+    "amount": 8531,
+    "reward": 201
+  },
+  {
+    "userAddress": "0x481363f5df49926b2D200ccfbE0441AD8E4831C6",
+    "amount": 7159,
+    "reward": 965
+  },
+  {
+    "userAddress": "0x66011208A6974e6a0c0E024ca955a566C12c9d63",
+    "amount": 2841,
+    "reward": 819
+  },
+  {
+    "userAddress": "0x610Cf6e3369AA0650967E926Af730C70aFa291b4",
+    "amount": 5366,
+    "reward": 21
+  },
+  {
+    "userAddress": "0x2c2E0893028538312f07B765Ad9690Fcd872C25C",
+    "amount": 888,
+    "reward": 444
+  },
+  {
+    "userAddress": "0x238abE0433A63D9564C2E089B62f37c2c3042457",
+    "amount": 2764,
+    "reward": 727
+  },
+  {
+    "userAddress": "0x83362579c0e8188DFa2BCedB2466325fFbDCBb82",
+    "amount": 2299,
+    "reward": 963
+  },
+  {
+    "userAddress": "0xa6C05700e4EBD52cF5208B9C136968b06782af27",
+    "amount": 8736,
+    "reward": 786
+  },
+  {
+    "userAddress": "0xFF92C44Efa42c51039B71075657cba1cE40A2aE0",
+    "amount": 4311,
+    "reward": 6
+  },
+  {
+    "userAddress": "0x86b6CAD95E7329BDb4d76d6454058eb251a3E09c",
+    "amount": 7006,
+    "reward": 738
+  },
+  {
+    "userAddress": "0x67A694e363073C7a01e4a257B01d9e4d3d627B11",
+    "amount": 2280,
+    "reward": 589
+  },
+  {
+    "userAddress": "0xBe38344c10201981B444a80cCdaB41Ddd3C0AAB1",
+    "amount": 1677,
+    "reward": 146
+  },
+  {
+    "userAddress": "0x7529704F6e86283C3799c2bE15f9a446624b1B14",
+    "amount": 6569,
+    "reward": 117
+  },
+  {
+    "userAddress": "0xFe4BEf856370f7F1db4772f0AE2A31281Cf89CFE",
+    "amount": 1658,
+    "reward": 250
+  },
+  {
+    "userAddress": "0x990E1276b2458150D6dD34708d31de514bcb69c5",
+    "amount": 5811,
+    "reward": 959
+  },
+  {
+    "userAddress": "0x7FCDD665F8Bf67819b478bE5eE03a2e56e970206",
+    "amount": 9973,
+    "reward": 304
+  },
+  {
+    "userAddress": "0x1CF338430285396813fC57884c21571ACa507DA2",
+    "amount": 1909,
+    "reward": 332
+  },
+  {
+    "userAddress": "0xDA6a183b78Da1f3bD6Ee3C283dA6026fB2e3E6e4",
+    "amount": 2254,
+    "reward": 738
+  },
+  {
+    "userAddress": "0x5c9fF61d32A5a7C58168cFa769b489A4CC1aF8ae",
+    "amount": 2861,
+    "reward": 469
+  },
+  {
+    "userAddress": "0xB912c4de1D34A10e67BF0Ea719cDf60AB3dbd781",
+    "amount": 1508,
+    "reward": 837
+  },
+  {
+    "userAddress": "0xed5360c6c09320d98c7F2160B18924872A048Aba",
+    "amount": 6741,
+    "reward": 243
+  },
+  {
+    "userAddress": "0x1f90fd6d832ca859E986E101180c0Ac62baDaF35",
+    "amount": 5359,
+    "reward": 947
+  },
+  {
+    "userAddress": "0xc9970D73cEeFB172f5e9677DD6494A5c5Cf4801f",
+    "amount": 8665,
+    "reward": 783
+  },
+  {
+    "userAddress": "0x1549f022018418b0Af0C7B6B841F0cEE66fAd930",
+    "amount": 6920,
+    "reward": 11
+  },
+  {
+    "userAddress": "0xbeF912cCA8Cb4594243cE86C284Dec7285762576",
+    "amount": 8722,
+    "reward": 779
+  },
+  {
+    "userAddress": "0x9E4f42aF5de65F99D403bC219df4b2D3140fB701",
+    "amount": 1481,
+    "reward": 593
+  },
+  {
+    "userAddress": "0x323378925Ed0f589f067E430Fc88f7006c0bEA31",
+    "amount": 3033,
+    "reward": 574
+  },
+  {
+    "userAddress": "0x6Fc0e49712A28274Fe0b64EB2F04C0A230044A1A",
+    "amount": 9927,
+    "reward": 222
+  },
+  {
+    "userAddress": "0x9E47A2F07aeda99d28Ac4Da12b1Bc6d784a2F912",
+    "amount": 5113,
+    "reward": 188
+  },
+  {
+    "userAddress": "0xaFF683A6F4C9180eEf65066096eCC77502bb0024",
+    "amount": 5316,
+    "reward": 191
+  },
+  {
+    "userAddress": "0x11C75e8ccFb5bE26c2c183242B6cd7Cf5083673e",
+    "amount": 8608,
+    "reward": 692
+  },
+  {
+    "userAddress": "0x5f9d3e69fc8e413f16812Bd14F8DF063C8e280db",
+    "amount": 8396,
+    "reward": 421
+  },
+  {
+    "userAddress": "0x8492b5f14A7314A60688b077035D33D6418297d5",
+    "amount": 597,
+    "reward": 282
+  },
+  {
+    "userAddress": "0x0bC4bb59f1691F251B59552583710c26dea8c7B8",
+    "amount": 247,
+    "reward": 876
+  },
+  {
+    "userAddress": "0x2713D6bBe7779415e89D64e88DF5a61e68a4660A",
+    "amount": 7118,
+    "reward": 642
+  },
+  {
+    "userAddress": "0xEE603B96C05d93f9AC53AB2B8539eF4B0A04B843",
+    "amount": 1971,
+    "reward": 573
+  },
+  {
+    "userAddress": "0x218307646Dee0aD3dc674aD5355b275da4928158",
+    "amount": 6709,
+    "reward": 455
+  },
+  {
+    "userAddress": "0x62B61e563c68c55bC7083d1BC47Ff8712FF9f4EE",
+    "amount": 5621,
+    "reward": 650
+  },
+  {
+    "userAddress": "0x5361DAEaf39bF02F40fA5f3Bd458ECb13B19DC0D",
+    "amount": 284,
+    "reward": 148
+  },
+  {
+    "userAddress": "0xFe5E5931df0EB814115628af702E067A3d7B962b",
+    "amount": 4620,
+    "reward": 782
+  },
+  {
+    "userAddress": "0xD87f00e6F9894a85971247e303C953711F28EA1c",
+    "amount": 2245,
+    "reward": 718
+  },
+  {
+    "userAddress": "0xBFeC992056038F4719CE4154ED0Ffc1125bEF645",
+    "amount": 2354,
+    "reward": 845
+  },
+  {
+    "userAddress": "0x1bDEe931808e52789ca9731084F353960B4453FF",
+    "amount": 248,
+    "reward": 862
+  },
+  {
+    "userAddress": "0x22E72eBA005A7466eBe97EDFcC51f4fFfb712D39",
+    "amount": 1161,
+    "reward": 892
+  },
+  {
+    "userAddress": "0xC1F4DfCd6F5bCfD5ECC700a349B08Ed2F551fcDC",
+    "amount": 4554,
+    "reward": 778
+  },
+  {
+    "userAddress": "0xEff8Dcd322BF8efb1494B39C194D49Fb710ef161",
+    "amount": 6616,
+    "reward": 156
+  },
+  {
+    "userAddress": "0xC57C1537fEd5554c4C4C2615CE31f77776449B4e",
+    "amount": 7718,
+    "reward": 484
+  },
+  {
+    "userAddress": "0xA8D5Ca0B6Ac5F6C322af9F8B2F748Fa83dC65840",
+    "amount": 2667,
+    "reward": 452
+  },
+  {
+    "userAddress": "0xCb7bbA3032dDf6F4fbD4162AC5E9dd6e74aC5ea7",
+    "amount": 1391,
+    "reward": 525
+  },
+  {
+    "userAddress": "0x80d86CF0885f004b98af6dA0D32d060D3fF0beD9",
+    "amount": 4159,
+    "reward": 916
+  },
+  {
+    "userAddress": "0xa16F778e74eE5D0Ff838B30B05ce2089aA14C335",
+    "amount": 7767,
+    "reward": 208
+  },
+  {
+    "userAddress": "0x7d6fA7A214B1a702A58909458B4B066B5e614001",
+    "amount": 1932,
+    "reward": 305
+  },
+  {
+    "userAddress": "0x698E77D2AD11aAab0Be4Cd2a0Fe8a2f9A0F44472",
+    "amount": 4646,
+    "reward": 954
+  },
+  {
+    "userAddress": "0x9145480D499312679A28A44b4DD976b3c066510E",
+    "amount": 8279,
+    "reward": 30
+  },
+  {
+    "userAddress": "0x348f6EB32FDA35C97f14b9b8AD625D66f6D3871C",
+    "amount": 1799,
+    "reward": 583
+  },
+  {
+    "userAddress": "0x24dEAdB94264035B5489F17Da978900Ee240D902",
+    "amount": 6394,
+    "reward": 599
+  },
+  {
+    "userAddress": "0x5D2B2677266fB85828E42B6a71A836e69163adC9",
+    "amount": 6682,
+    "reward": 49
+  },
+  {
+    "userAddress": "0x523eC9f394De809763fb828E83D4F7b472f11f4D",
+    "amount": 9630,
+    "reward": 243
+  },
+  {
+    "userAddress": "0x04cf13dC4d79B39Dd9eEFB6F0856bd06f70516a3",
+    "amount": 1454,
+    "reward": 422
+  },
+  {
+    "userAddress": "0xDE30b2e602B6715Cde35b8CC382820e60524Cc90",
+    "amount": 5993,
+    "reward": 316
+  },
+  {
+    "userAddress": "0x3Ea60157Be93Ae91227Ed8F48CeCe6cf80b442DD",
+    "amount": 767,
+    "reward": 213
+  },
+  {
+    "userAddress": "0x69A18d7F20B0863264054389D3D409a7D9bCAb4E",
+    "amount": 9512,
+    "reward": 666
+  },
+  {
+    "userAddress": "0x02925D243269E6cD5A2E7Ea11342985444e7711e",
+    "amount": 6179,
+    "reward": 161
+  },
+  {
+    "userAddress": "0x66a9Ea372e513ac79fAC261A4d0f389532Ce07ab",
+    "amount": 9533,
+    "reward": 822
+  },
+  {
+    "userAddress": "0x1ff80ec520A1e09554B9236D89115c6a929491Ed",
+    "amount": 3657,
+    "reward": 452
+  },
+  {
+    "userAddress": "0xB35184a58091525C3b6CA2BA18ecf20B15483bB6",
+    "amount": 4452,
+    "reward": 46
+  },
+  {
+    "userAddress": "0x5bED51E1a0662763e3C899D1687b3d016A6953B4",
+    "amount": 3993,
+    "reward": 939
+  },
+  {
+    "userAddress": "0x6cf5a7DAc4f6Fb194F9AeDe7C81c4262AF5909d5",
+    "amount": 8375,
+    "reward": 407
+  },
+  {
+    "userAddress": "0xeeBdFf9828Bd2d7aCbF1aA535Cc734E3f8650A3a",
+    "amount": 7538,
+    "reward": 545
+  },
+  {
+    "userAddress": "0x106801f4D080431B4A0B9F1fcda03f638126D090",
+    "amount": 6795,
+    "reward": 909
+  },
+  {
+    "userAddress": "0x6B4d079384213D0B8c84852B606b2F01Bf7EfC30",
+    "amount": 255,
+    "reward": 228
+  },
+  {
+    "userAddress": "0xC497e1efD0c0D6B870c8425c6dB43BA8B6dbbC72",
+    "amount": 9642,
+    "reward": 918
+  },
+  {
+    "userAddress": "0x973C6Ad849EdD87B33B38792fc36dF2AA5Cb8752",
+    "amount": 8757,
+    "reward": 273
+  },
+  {
+    "userAddress": "0xd9d81757767B7Bd7251202Baa122C42f2F5CeF0f",
+    "amount": 8883,
+    "reward": 243
+  },
+  {
+    "userAddress": "0xd971DCD7AE68512Eb1056a688B47e2528583e8D2",
+    "amount": 9512,
+    "reward": 100
+  },
+  {
+    "userAddress": "0x3fD241BFDc510960A22992b6E456E93D451CFf03",
+    "amount": 3444,
+    "reward": 518
+  },
+  {
+    "userAddress": "0x7818Af14cb063A897a6A42f2A974bb97a3C56442",
+    "amount": 8658,
+    "reward": 687
+  },
+  {
+    "userAddress": "0x33Dcc792C7E4C5B5d02E5f6E8Dd3581ac4ed9361",
+    "amount": 3705,
+    "reward": 326
+  },
+  {
+    "userAddress": "0x9a361e22E34b509FCb96B85d2a8B15b48ea09038",
+    "amount": 9306,
+    "reward": 678
+  },
+  {
+    "userAddress": "0xC4eE9fE5aF4A955428394A7D8A77137eB7F68813",
+    "amount": 7504,
+    "reward": 582
+  },
+  {
+    "userAddress": "0x4dFa55f4936F85a75542768Bf7D664B5Cc0a998F",
+    "amount": 7644,
+    "reward": 954
+  },
+  {
+    "userAddress": "0xa343776AA1b314efac9AD1bcc85fE25f1A1b7a8b",
+    "amount": 8813,
+    "reward": 567
+  },
+  {
+    "userAddress": "0xBF9b5Fc1Cac74f3Cd4B8DdF7309D6ACaE7065f33",
+    "amount": 5639,
+    "reward": 945
+  },
+  {
+    "userAddress": "0xe700b012bCF65aE312D02D907A0b7dfd57cE79B3",
+    "amount": 3537,
+    "reward": 920
+  },
+  {
+    "userAddress": "0x104B157BC9f56f18d8a099477d96ECdDd9fb8741",
+    "amount": 8888,
+    "reward": 258
+  },
+  {
+    "userAddress": "0xF78f02a01F0986B33A57c37eECa5030219cE7348",
+    "amount": 7177,
+    "reward": 280
+  },
+  {
+    "userAddress": "0x1CceebF902Ee863a74527C91199f9b64Eb35A85D",
+    "amount": 2449,
+    "reward": 394
+  },
+  {
+    "userAddress": "0x99c5413F8b45D006Fd7EF151604C3CF0D252Cbc2",
+    "amount": 9044,
+    "reward": 717
+  },
+  {
+    "userAddress": "0x99344382eE54De000d41D3241E4878D4Ec782e84",
+    "amount": 9641,
+    "reward": 38
+  },
+  {
+    "userAddress": "0xe2b5058fA0e0687673255daEfE7e5c3BaFE0C171",
+    "amount": 3506,
+    "reward": 537
+  },
+  {
+    "userAddress": "0x780aA97Eb1c46693aDb3C761Ed93bE20C4d25176",
+    "amount": 3085,
+    "reward": 128
+  },
+  {
+    "userAddress": "0xA4C07fBD4bB330E573B41C618161047278f4ef19",
+    "amount": 6720,
+    "reward": 594
+  },
+  {
+    "userAddress": "0x2c70a562EaF6CbA3C0E8505e0D841c25a796Fb09",
+    "amount": 8058,
+    "reward": 271
+  },
+  {
+    "userAddress": "0xF2a985D603385Bc834EC2D2b1ee1b7f70aB01093",
+    "amount": 5768,
+    "reward": 808
+  },
+  {
+    "userAddress": "0xE089c68EEf3eAE3e69A96cE01c2C7db0CA42D9dE",
+    "amount": 3254,
+    "reward": 761
+  },
+  {
+    "userAddress": "0x7F737ddA4fDF496cC2624659Dc0a79373432267d",
+    "amount": 5307,
+    "reward": 244
+  },
+  {
+    "userAddress": "0xC0969815d3ec9220D6c45560341E9798d4FeF2Fe",
+    "amount": 5093,
+    "reward": 94
+  },
+  {
+    "userAddress": "0x41429d119C061dBfBD5a0654aDaBf4bBA338bF13",
+    "amount": 7391,
+    "reward": 367
+  },
+  {
+    "userAddress": "0x34Eb9A283fEb12BDDcDC01c8c7538cd956D7d072",
+    "amount": 4000,
+    "reward": 569
+  },
+  {
+    "userAddress": "0x7d3CD317a879e4C9B011D64d5Eb12fAc876E9fd2",
+    "amount": 167,
+    "reward": 704
+  },
+  {
+    "userAddress": "0xE6888eA716b480677b812c8cCA67faB18304792A",
+    "amount": 6426,
+    "reward": 787
+  },
+  {
+    "userAddress": "0x7BF4610a03957cA75b5EFBEe4890651FB8ffC324",
+    "amount": 3100,
+    "reward": 445
+  },
+  {
+    "userAddress": "0x56B9449E222076dE5DC2b8376FB6560C582283C2",
+    "amount": 5778,
+    "reward": 113
+  },
+  {
+    "userAddress": "0x88445AE66E7f65Ed82EE2Fc4974ac3EDBBf43C86",
+    "amount": 5603,
+    "reward": 0
+  },
+  {
+    "userAddress": "0x1bBB1A6cf6b05561942758068912baA65d799DFF",
+    "amount": 655,
+    "reward": 417
+  },
+  {
+    "userAddress": "0x2210e724B1635F27937174f93f1D3A86D04EdCe8",
+    "amount": 9362,
+    "reward": 208
+  },
+  {
+    "userAddress": "0xEAcC0cE317d558824C0e82ebCc6D5b200F976691",
+    "amount": 4748,
+    "reward": 413
+  },
+  {
+    "userAddress": "0xFfc6080d5b273b857c0308A80Bfe96Bc0BEAabD6",
+    "amount": 9101,
+    "reward": 366
+  },
+  {
+    "userAddress": "0x31b5530241195D2CbeF0184c462885f0731cD2eA",
+    "amount": 2746,
+    "reward": 473
+  },
+  {
+    "userAddress": "0xdA108B5100532f037bDEd60c7a267Ea500926Ed9",
+    "amount": 8579,
+    "reward": 427
+  },
+  {
+    "userAddress": "0x6a8231d0AE944d7e80A41B74308774e48AC9DBe4",
+    "amount": 9053,
+    "reward": 925
+  },
+  {
+    "userAddress": "0xe55EF365a768D022E06573Cc8A6A13F53ce4fAC3",
+    "amount": 8780,
+    "reward": 914
+  },
+  {
+    "userAddress": "0x2FF037735d7B3D42de4A80549Fc7600275352e72",
+    "amount": 3078,
+    "reward": 232
+  },
+  {
+    "userAddress": "0xdA30ce739E0d1749a0eC8725703Cc6E74a6D0B01",
+    "amount": 5949,
+    "reward": 529
+  },
+  {
+    "userAddress": "0xEB774831296d592Ccb269b7B5DD4DD4a19B992ad",
+    "amount": 1412,
+    "reward": 781
+  },
+  {
+    "userAddress": "0x8De9F5de4556B136C16F13eD16bc42EE455AC1E7",
+    "amount": 9800,
+    "reward": 569
+  },
+  {
+    "userAddress": "0xCAcbA431aFAb7406bdA052f4248E6bC958550009",
+    "amount": 9974,
+    "reward": 209
+  },
+  {
+    "userAddress": "0x1b124Ab2aDfF9B49a9C07D4F2c04e2C9C5b691d6",
+    "amount": 5427,
+    "reward": 946
+  },
+  {
+    "userAddress": "0x03699e3FAa4ba07056Db6cE644aB9E57fBB29D6f",
+    "amount": 9305,
+    "reward": 718
+  },
+  {
+    "userAddress": "0xEfb53fD8688780a5D87eC0D914f54067b54EBF96",
+    "amount": 2612,
+    "reward": 0
+  },
+  {
+    "userAddress": "0x0744B00Aa9Cd0170b183f68D8E7022e41dF9010E",
+    "amount": 972,
+    "reward": 167
+  },
+  {
+    "userAddress": "0x8fA4AbB7d6AF38590d442E14247864aeFaa31c7A",
+    "amount": 8817,
+    "reward": 862
+  },
+  {
+    "userAddress": "0x981e21E517D8251C53c9CD8A8bc5FdD93C8d3A57",
+    "amount": 850,
+    "reward": 121
+  },
+  {
+    "userAddress": "0x6B58CB7F605Fb9EA6b81E5a6c30dA8ae812A3353",
+    "amount": 952,
+    "reward": 406
+  },
+  {
+    "userAddress": "0x929423f026E056FDe22764c5d52B837EFB7011C8",
+    "amount": 9459,
+    "reward": 733
+  },
+  {
+    "userAddress": "0xB3fdaA2F9cB1E8E030BbE0Ac6947Dbc2F2de171d",
+    "amount": 943,
+    "reward": 985
+  },
+  {
+    "userAddress": "0xd714b946E9523E54f6ADB1CDFbbAaaa0B3A3cFF0",
+    "amount": 6233,
+    "reward": 39
+  },
+  {
+    "userAddress": "0xedc1a05630d1235a38f064B25e30aa75F000bf3c",
+    "amount": 1146,
+    "reward": 496
+  },
+  {
+    "userAddress": "0x8a2C29d4274B09d324aB6C98F79eff8dD349BD6d",
+    "amount": 9921,
+    "reward": 233
+  },
+  {
+    "userAddress": "0x3Dcc5942841fDB3dADA66f822A72BfB53C38460B",
+    "amount": 1863,
+    "reward": 620
+  },
+  {
+    "userAddress": "0xc8B86C364C0f0AC91594BB4307026aC1A1295e2A",
+    "amount": 8503,
+    "reward": 944
+  },
+  {
+    "userAddress": "0x1Adcc43fC7c1a89C2Db4a0493eE952925C09B282",
+    "amount": 33,
+    "reward": 542
+  },
+  {
+    "userAddress": "0x85A6a0B12A3283a4860BA07DC178428a4e138563",
+    "amount": 9863,
+    "reward": 652
+  },
+  {
+    "userAddress": "0xf0915dc4A0779eb6046a34CDcdaE46a3FcFa2B0c",
+    "amount": 379,
+    "reward": 513
+  },
+  {
+    "userAddress": "0x8508482b7adbE963fd61cE6fE1ca042D3e4C1C07",
+    "amount": 3112,
+    "reward": 744
+  },
+  {
+    "userAddress": "0xa8dB13c0938a8E0318C75a425030A14aa44C0a24",
+    "amount": 7533,
+    "reward": 572
+  },
+  {
+    "userAddress": "0x10782E7aB72eaEf5443c756eBCf8436626477967",
+    "amount": 7957,
+    "reward": 991
+  },
+  {
+    "userAddress": "0xa5E5C92D02E9187E7f1723b80ed599609E426e6d",
+    "amount": 45,
+    "reward": 125
+  },
+  {
+    "userAddress": "0xF3CA44a19d6e64dA47eaE0fAB3a944F5C23A7baD",
+    "amount": 4791,
+    "reward": 824
+  },
+  {
+    "userAddress": "0x366117225551E0eb252Ba2Bc2DDb11aDc0291f16",
+    "amount": 3267,
+    "reward": 574
+  },
+  {
+    "userAddress": "0x98921569B69534efe8ED439cb43310a5E5f4FfAE",
+    "amount": 1447,
+    "reward": 421
+  },
+  {
+    "userAddress": "0xfbf56303accBAf793DF18BD8F7389E333267966f",
+    "amount": 3190,
+    "reward": 872
+  },
+  {
+    "userAddress": "0x36D4317826081b4b10fbd3E4ADE966f1a472F274",
+    "amount": 1719,
+    "reward": 284
+  },
+  {
+    "userAddress": "0x7fdAdEb6b7C96a30Ad2501debb4E8A3E2793eB1c",
+    "amount": 1129,
+    "reward": 722
+  },
+  {
+    "userAddress": "0x83c6CBc45bE73fB2d88E1b725B1482718E594693",
+    "amount": 8789,
+    "reward": 133
+  },
+  {
+    "userAddress": "0xAa89BF7C4C29685e48c52689702e1EB8432debFA",
+    "amount": 4108,
+    "reward": 924
+  },
+  {
+    "userAddress": "0x7BE202a60C6D2b16Eec04F5FD18F8D15e4AcBeb7",
+    "amount": 2735,
+    "reward": 268
+  },
+  {
+    "userAddress": "0xA6F010fbB9C64f1893fA37E5147D77dC0f814b6e",
+    "amount": 4578,
+    "reward": 944
+  },
+  {
+    "userAddress": "0x67f874070aDb3DBEf8CD9B3b763D04465111383D",
+    "amount": 4720,
+    "reward": 506
+  },
+  {
+    "userAddress": "0x2d87E0608320632D033B459b6b8B92b254ee07c7",
+    "amount": 5330,
+    "reward": 660
+  },
+  {
+    "userAddress": "0xa7e273628Cf7B2Aa802Bc67317ffC894d3A7cfB7",
+    "amount": 6352,
+    "reward": 332
+  },
+  {
+    "userAddress": "0x5625a1AC695F54585516d0e26B2184BC72330C1E",
+    "amount": 2083,
+    "reward": 864
+  },
+  {
+    "userAddress": "0x84a8858bbFF89f1aC7552D9b06AAF4FAe1c63856",
+    "amount": 3232,
+    "reward": 533
+  },
+  {
+    "userAddress": "0xebCf37dc03d21Ca6D7067159E04f3F013C4403bE",
+    "amount": 1228,
+    "reward": 91
+  },
+  {
+    "userAddress": "0xf5a4609BCd3a9B5842f17A2594ab44D554011335",
+    "amount": 8549,
+    "reward": 531
+  },
+  {
+    "userAddress": "0xbCFC96e4f3dD52E069e82A51fBa89CEeA172aBB7",
+    "amount": 3903,
+    "reward": 304
+  },
+  {
+    "userAddress": "0x8Dcc8D3e491df23D819B9387edaf4190c1f5c69F",
+    "amount": 4965,
+    "reward": 243
+  },
+  {
+    "userAddress": "0xdA5798A3E3c1d6804FB1Cad5A1d1fCF1C6eCaD09",
+    "amount": 10,
+    "reward": 731
+  },
+  {
+    "userAddress": "0xCa3aa86284326D2F3d36F147d6e5539A9f441e3D",
+    "amount": 9252,
+    "reward": 336
+  },
+  {
+    "userAddress": "0x4d02CBe7809F8419C0d72505199c791F19086884",
+    "amount": 1016,
+    "reward": 967
+  },
+  {
+    "userAddress": "0x74C19eF8ceab19Bb41d845cE358f1b64bC2f8521",
+    "amount": 7960,
+    "reward": 162
+  },
+  {
+    "userAddress": "0x4487752Cba59771f3B2587BdeF4f201e4C7b3C7C",
+    "amount": 1545,
+    "reward": 532
+  },
+  {
+    "userAddress": "0x248406178F61EfFaD3f8355391cf30c2a7e5220c",
+    "amount": 9508,
+    "reward": 721
+  },
+  {
+    "userAddress": "0x3d1Ab26EE6bC7B9674CEB4Fbc1bc70d9C8E9C46f",
+    "amount": 9139,
+    "reward": 341
+  },
+  {
+    "userAddress": "0xbB9797512DF27bE0a9f442Fd78dDe578CBd56089",
+    "amount": 21,
+    "reward": 889
+  },
+  {
+    "userAddress": "0xB5f31a2ce8cA85539B1AE868fE5FEDCC00291370",
+    "amount": 7096,
+    "reward": 813
+  },
+  {
+    "userAddress": "0x3401c686cd50DE69BE1735A414E0C891d19041a5",
+    "amount": 8245,
+    "reward": 911
+  },
+  {
+    "userAddress": "0x7dcB2355aDba3312BC23baAdDFf5d4F490c15C5d",
+    "amount": 4546,
+    "reward": 339
+  },
+  {
+    "userAddress": "0xA02B302A8cbF9D472f2F62Ef45FF165b7Cc48A7f",
+    "amount": 5222,
+    "reward": 689
+  },
+  {
+    "userAddress": "0xfB9698c1379a69f5ce27f507855CCC98D6817792",
+    "amount": 2967,
+    "reward": 840
+  },
+  {
+    "userAddress": "0xC27Ad1357d5820140636392EfF22a64741bF6e6F",
+    "amount": 5991,
+    "reward": 791
+  },
+  {
+    "userAddress": "0x5459335c25458B6ea926FC9A770b908cAb18D71B",
+    "amount": 6090,
+    "reward": 347
+  },
+  {
+    "userAddress": "0xB392242B5aA058fa44D65b78484f247c081bC166",
+    "amount": 2035,
+    "reward": 400
+  },
+  {
+    "userAddress": "0x8699CEeBBB894bE6A959a9D673B25A606cC913f1",
+    "amount": 2810,
+    "reward": 343
+  },
+  {
+    "userAddress": "0xB17785305f7648e72A2734634277D3E50D7d71Cd",
+    "amount": 1113,
+    "reward": 739
+  },
+  {
+    "userAddress": "0xf84dfb1E7Af2786e0ec2A4744620d404B6a6D9F4",
+    "amount": 8515,
+    "reward": 695
+  },
+  {
+    "userAddress": "0x6a4F46AceCeb8Fcdd9de2328c94abf711a0bA86a",
+    "amount": 8473,
+    "reward": 198
+  },
+  {
+    "userAddress": "0xc8c2F5eCe4EADA917310E70104d8dc653cE2E971",
+    "amount": 3180,
+    "reward": 393
+  },
+  {
+    "userAddress": "0x416398F866C60Eb88E5D707c8086D02f8ad256D2",
+    "amount": 6267,
+    "reward": 420
+  },
+  {
+    "userAddress": "0x4613cBd14F14f7784B15639413C935d0b4D76a80",
+    "amount": 2706,
+    "reward": 979
+  },
+  {
+    "userAddress": "0x8E3F748D4AAa0b8eBcC142C848772764E74Fd93A",
+    "amount": 6575,
+    "reward": 228
+  },
+  {
+    "userAddress": "0x529a87E71643e5E16AB962Ee33b79BA16B47b367",
+    "amount": 2441,
+    "reward": 968
+  },
+  {
+    "userAddress": "0xDDdC6f5265d909F83e789DA4FBE926c0AA9fF3ed",
+    "amount": 3987,
+    "reward": 151
+  },
+  {
+    "userAddress": "0xe821e33C0e40d620679a80d48d623E3759C05bB5",
+    "amount": 9792,
+    "reward": 143
+  },
+  {
+    "userAddress": "0x0515E1bd029c7F96D429066e122610AC2837C1D5",
+    "amount": 6786,
+    "reward": 437
+  },
+  {
+    "userAddress": "0x65B5F9aF59033F5Bb8622487809a29373Accc08e",
+    "amount": 7020,
+    "reward": 984
+  },
+  {
+    "userAddress": "0x0a07562DfbA889E1B5FAAb77BB0Ca23251EDD1b3",
+    "amount": 9632,
+    "reward": 729
+  },
+  {
+    "userAddress": "0x2F87905AB82b2Ff425FD1ff3bCE44262F219ad26",
+    "amount": 7004,
+    "reward": 144
+  },
+  {
+    "userAddress": "0x15206d6d9AD26fA49965674E0D759Df68bcd6FE6",
+    "amount": 2934,
+    "reward": 841
+  },
+  {
+    "userAddress": "0x43083580bd204102B6D09E6C39370BBfcB683Ca6",
+    "amount": 3661,
+    "reward": 855
+  },
+  {
+    "userAddress": "0x73635FD86964EB400F2d7C8b43815aAde4FebA77",
+    "amount": 7498,
+    "reward": 421
+  },
+  {
+    "userAddress": "0x3E033D0aaA1Db6eb893f25d2ABE5239E2595416A",
+    "amount": 4761,
+    "reward": 543
+  },
+  {
+    "userAddress": "0xd2a832671a389ac22a198e9C2A96ADc35791E010",
+    "amount": 9485,
+    "reward": 875
+  },
+  {
+    "userAddress": "0x13a5409F9f5202075308f3f0e98cA7bA7fC9F939",
+    "amount": 8356,
+    "reward": 483
+  },
+  {
+    "userAddress": "0x7B5779Db86E719B9A5cfa8BDAe0BBf2227e63243",
+    "amount": 9890,
+    "reward": 927
+  },
+  {
+    "userAddress": "0xCA3b4531681e81b9489C5542a70B385ab9B1Cbaf",
+    "amount": 8157,
+    "reward": 609
+  },
+  {
+    "userAddress": "0x40708929f82398e83a6830D60f5146CDC8Da4A1A",
+    "amount": 2475,
+    "reward": 72
+  },
+  {
+    "userAddress": "0xeCFFB67Cc8D7cf5539ABEE78A5DaBdBc7529619B",
+    "amount": 1,
+    "reward": 115
+  },
+  {
+    "userAddress": "0x47bf261FFE629c5e2Ff10f8a43aC940F073bc8Db",
+    "amount": 7418,
+    "reward": 979
+  },
+  {
+    "userAddress": "0x7802dFF1BE658c20E4d9eA2A27F3b14aBb303Eb5",
+    "amount": 7579,
+    "reward": 598
+  },
+  {
+    "userAddress": "0xd7caC623f03e2Ea146d1eD5F7728B9Aa48BC0E8c",
+    "amount": 6736,
+    "reward": 246
+  },
+  {
+    "userAddress": "0x5C7c4fABfEa79f55B1507f5304994620b4b178Ce",
+    "amount": 2676,
+    "reward": 806
+  },
+  {
+    "userAddress": "0x5012d031eD6b29Cd8a2877Eae55A2807E02997cd",
+    "amount": 3219,
+    "reward": 687
+  },
+  {
+    "userAddress": "0x470C5108425b135417bf07305eE3FAbC8C8cC44E",
+    "amount": 2327,
+    "reward": 517
+  },
+  {
+    "userAddress": "0xB15c999CfFC3eFa61C7c8800C87813F8DF0cD909",
+    "amount": 601,
+    "reward": 138
+  },
+  {
+    "userAddress": "0xe8C185781f1e1C8b9A53d8F39AcBD6D82BDA75Cd",
+    "amount": 7914,
+    "reward": 404
+  },
+  {
+    "userAddress": "0x8FbAC1A1A22FC7c7621E520B23e4Da43f40A8cc5",
+    "amount": 3929,
+    "reward": 24
+  },
+  {
+    "userAddress": "0xf57EFC9f736a0619cFdb1A63974C846aEfbfeefc",
+    "amount": 6926,
+    "reward": 994
+  },
+  {
+    "userAddress": "0x5DbA34D5Bb23c86D1121a6B516602a340e8F0302",
+    "amount": 228,
+    "reward": 501
+  },
+  {
+    "userAddress": "0x9f6DDe542Ac60c64c887Fe252b50947c8417cfe3",
+    "amount": 8834,
+    "reward": 69
+  },
+  {
+    "userAddress": "0xDd0f19E0929161a969891C0cC420BbA15cb4893d",
+    "amount": 9235,
+    "reward": 163
+  },
+  {
+    "userAddress": "0xDD45C3d53e96700ca99170152385180888563aa4",
+    "amount": 8974,
+    "reward": 225
+  },
+  {
+    "userAddress": "0x1a569eE27ba0Ce7e64fEFD5dAD50aDA889d2376E",
+    "amount": 4675,
+    "reward": 776
+  },
+  {
+    "userAddress": "0x720204c4c6F7BB9fe4D4f6c45ab716453470F85d",
+    "amount": 9452,
+    "reward": 820
+  },
+  {
+    "userAddress": "0x38d2470747975D944d1930A894B4f5BCDDb37680",
+    "amount": 6881,
+    "reward": 163
+  },
+  {
+    "userAddress": "0xA083255371609F85b2FBeB16C694d401E092751E",
+    "amount": 9320,
+    "reward": 60
+  },
+  {
+    "userAddress": "0x45d7557F225341aE644A32da6fC4d9CC37326Bf5",
+    "amount": 8703,
+    "reward": 665
+  },
+  {
+    "userAddress": "0x0B03a417613B95a810Db3d8C391426Bc7b0852E5",
+    "amount": 4660,
+    "reward": 72
+  },
+  {
+    "userAddress": "0xdaCF4f8e15d29b5272573a6eaC3a2AD6Bcb76f65",
+    "amount": 2641,
+    "reward": 977
+  },
+  {
+    "userAddress": "0x631c4f19AE96B5a8B205f425ae242ecCbf489889",
+    "amount": 3976,
+    "reward": 225
+  },
+  {
+    "userAddress": "0x9A9B443f1e3486696C6cE7aFb0D75309EA3ECCaB",
+    "amount": 5826,
+    "reward": 394
+  },
+  {
+    "userAddress": "0x1e06fB88F51580c5D70052852a8BA8c8D2Cdcc6C",
+    "amount": 8431,
+    "reward": 564
+  },
+  {
+    "userAddress": "0x0C3EE72233f56443e38Db24Fd2CB6Fb8a550aFa5",
+    "amount": 1776,
+    "reward": 143
+  },
+  {
+    "userAddress": "0x6a32F36b83b276AAF9e547555D96052c4468Ce4E",
+    "amount": 5620,
+    "reward": 705
+  },
+  {
+    "userAddress": "0xbF7bae59E32e372f7f73a83ADF8D29434EbF2788",
+    "amount": 3411,
+    "reward": 197
+  },
+  {
+    "userAddress": "0xFb94e3d4a4429Aa4744D108c3c7F97cD478FB478",
+    "amount": 7598,
+    "reward": 556
+  },
+  {
+    "userAddress": "0x455f152D772FC295e733dBf3f2C2Ab698E535436",
+    "amount": 6070,
+    "reward": 313
+  },
+  {
+    "userAddress": "0x24Acd7d89cA6aDE9Ebb2fD26f002b853eF51B04D",
+    "amount": 6719,
+    "reward": 705
+  },
+  {
+    "userAddress": "0xbcB7d0cdf9d4ABa6C63f016C8A108940ac08cd49",
+    "amount": 3246,
+    "reward": 399
+  },
+  {
+    "userAddress": "0xb5bc7D1A3ABcBFdF0E9b2b84bF60850bc1b505D4",
+    "amount": 7310,
+    "reward": 279
+  },
+  {
+    "userAddress": "0xe5152694e65672cb3705D9Ad6035ff6623682f55",
+    "amount": 4242,
+    "reward": 112
+  },
+  {
+    "userAddress": "0x869126DbA19d76445C0E459734fbe98dfcC5DcFB",
+    "amount": 8069,
+    "reward": 695
+  },
+  {
+    "userAddress": "0xFf7F74c00Eb9A91c8E75Eb47C828f26aaC4A48B9",
+    "amount": 7406,
+    "reward": 284
+  },
+  {
+    "userAddress": "0xB0108B81449Da24430ab19a1fb63AC0Af3F87F85",
+    "amount": 4495,
+    "reward": 252
+  },
+  {
+    "userAddress": "0x633620B32785d1efd157197266709F23e2640d5B",
+    "amount": 6481,
+    "reward": 415
+  },
+  {
+    "userAddress": "0xab178b00AEA73dfbd190C97639113d03183c92a4",
+    "amount": 62,
+    "reward": 445
+  },
+  {
+    "userAddress": "0x6f687781a114bDBaD8f8eeAe9273c62B0EB67000",
+    "amount": 5714,
+    "reward": 871
+  },
+  {
+    "userAddress": "0x90DCF7A3f0076adbEcc013e8B8d7a3fD91DC922f",
+    "amount": 3946,
+    "reward": 853
+  },
+  {
+    "userAddress": "0xC41e40c1e26AeA36782DB5366c28CD22597b129e",
+    "amount": 5817,
+    "reward": 951
+  },
+  {
+    "userAddress": "0x4c81785c35c117EcaF5d417789B6445e9eCecfd6",
+    "amount": 5432,
+    "reward": 726
+  },
+  {
+    "userAddress": "0x7216a14A03F6fACcb7a1B3BbC98e6eb6FAE3c904",
+    "amount": 6094,
+    "reward": 613
+  },
+  {
+    "userAddress": "0xC0fa53357f2E71C3b7712192f1d9E501af99A05f",
+    "amount": 1710,
+    "reward": 965
+  },
+  {
+    "userAddress": "0x3C65dA9B9fF0209BC0650E4D670eBFC43C03625F",
+    "amount": 2678,
+    "reward": 776
+  },
+  {
+    "userAddress": "0xc90362089F9F3E5505a040F87535c62910556E97",
+    "amount": 2165,
+    "reward": 362
+  },
+  {
+    "userAddress": "0xd97fc5888AD472f57702F089398b2Ea84630AA77",
+    "amount": 1918,
+    "reward": 556
+  },
+  {
+    "userAddress": "0xeA8619090604354B32Da822ad61044daCfA09376",
+    "amount": 2537,
+    "reward": 878
+  },
+  {
+    "userAddress": "0x3f3cb263a56616cfc419051299dCa7789f8260e9",
+    "amount": 3781,
+    "reward": 83
+  },
+  {
+    "userAddress": "0x986345c182D4326441CC37Acc51954B02835b78C",
+    "amount": 497,
+    "reward": 203
+  },
+  {
+    "userAddress": "0xf00D9B8a03f2daDFBfb6044bedae6541047d9692",
+    "amount": 6464,
+    "reward": 268
+  },
+  {
+    "userAddress": "0xB09E0c53d6486c5609c25323d5288ff50edfEC9e",
+    "amount": 7512,
+    "reward": 152
+  },
+  {
+    "userAddress": "0xaC9F02C40Ed35d5177EBA8Ec1D80970c18f4c191",
+    "amount": 5533,
+    "reward": 595
+  },
+  {
+    "userAddress": "0xEDa4A99275d784bc1C13F054abdEEFDC9505f08B",
+    "amount": 7133,
+    "reward": 814
+  },
+  {
+    "userAddress": "0x6c205152e383e4d7B9CEf00872Ee0c0b732dE850",
+    "amount": 5034,
+    "reward": 523
+  },
+  {
+    "userAddress": "0xE556d5d92C61e43c7f420501adB0125F2653CbFd",
+    "amount": 7674,
+    "reward": 408
+  },
+  {
+    "userAddress": "0x1D6C450FE97ED150108F76116547b391dbaead7E",
+    "amount": 5068,
+    "reward": 425
+  },
+  {
+    "userAddress": "0x05b1BBc1e462D088670Fb102c165f9f5B7F9927b",
+    "amount": 2042,
+    "reward": 40
+  },
+  {
+    "userAddress": "0xC293ad95cBE8A0194810cfA111E6d44A8c1cEABd",
+    "amount": 1057,
+    "reward": 494
+  },
+  {
+    "userAddress": "0x1D43076035977AFd24dF68A6b2fEd3265878F53D",
+    "amount": 6271,
+    "reward": 296
+  },
+  {
+    "userAddress": "0x1830881B571bcf8eB3b2BbF9778fCf09e26a1226",
+    "amount": 4232,
+    "reward": 914
+  },
+  {
+    "userAddress": "0xd9672622C5C42c14bf2752e2750C24eBdB37C4d4",
+    "amount": 9860,
+    "reward": 898
+  },
+  {
+    "userAddress": "0xa730D58168AA54428efb00aaF09CAE74025D6B5F",
+    "amount": 6148,
+    "reward": 891
+  },
+  {
+    "userAddress": "0x1D64952Ce210C4724de1264ba049636Be33A713a",
+    "amount": 5966,
+    "reward": 501
+  },
+  {
+    "userAddress": "0xC7b78Ee5759071373A922E01B004C12213cb2148",
+    "amount": 8717,
+    "reward": 751
+  },
+  {
+    "userAddress": "0x331103165968C63dbC05952A4C6A46c252053033",
+    "amount": 7969,
+    "reward": 642
+  },
+  {
+    "userAddress": "0xc6b336aDf878b6d46491a5c9EdcfAe1C411E39B4",
+    "amount": 3662,
+    "reward": 16
+  },
+  {
+    "userAddress": "0xE919aF040d84053675D774e87B939F32f530137f",
+    "amount": 2385,
+    "reward": 413
+  },
+  {
+    "userAddress": "0x83D66561B4757a0475f18A175FEb07112C16F7Fe",
+    "amount": 1012,
+    "reward": 403
+  },
+  {
+    "userAddress": "0x7f467f0Db6c0Cbf0336a13341C15c0A3c4b1CF27",
+    "amount": 2387,
+    "reward": 717
+  },
+  {
+    "userAddress": "0x80154546A8A27C3DD1dbcA9aCC87385A5A7ac0C4",
+    "amount": 551,
+    "reward": 758
+  },
+  {
+    "userAddress": "0x7C1637812aEd449F584cF9cC64A3F88323B11D96",
+    "amount": 836,
+    "reward": 31
+  },
+  {
+    "userAddress": "0xFdB585B3F68A540F2084c47e69B5CBF120DF3659",
+    "amount": 3818,
+    "reward": 495
+  },
+  {
+    "userAddress": "0xC97C95E87243805e0940E78957D64989923CdB2E",
+    "amount": 4257,
+    "reward": 739
+  },
+  {
+    "userAddress": "0x71ee0fd34ff013Bcc101315266f4AE920df6F3f9",
+    "amount": 774,
+    "reward": 595
+  },
+  {
+    "userAddress": "0x41E09357dAf4b5CbE3BD8457022a453164d4951e",
+    "amount": 4812,
+    "reward": 528
+  },
+  {
+    "userAddress": "0x6Bf24A6F13f7056362d53Fb87d7A8d9a813d92e3",
+    "amount": 6962,
+    "reward": 782
+  },
+  {
+    "userAddress": "0xFF437A8110842568AbE5b1f908bC1471ec045983",
+    "amount": 5356,
+    "reward": 17
+  },
+  {
+    "userAddress": "0xcAdbc601E341c717c004B602cC20Fc87f8124991",
+    "amount": 3729,
+    "reward": 43
+  },
+  {
+    "userAddress": "0x13DE59f8dB0ed9930091DAe0B51F9Ec4BeD9e7DA",
+    "amount": 5785,
+    "reward": 38
+  },
+  {
+    "userAddress": "0x4d80e1690DEA2D68dD1068258DD72B519A0ADeC4",
+    "amount": 9481,
+    "reward": 445
+  },
+  {
+    "userAddress": "0xa8fb8998d74B7E9F12305EF4527539F0361F43Bb",
+    "amount": 7979,
+    "reward": 222
+  },
+  {
+    "userAddress": "0xd98Ffb08017dBc42CCAf84a9348d33626B9A21Ac",
+    "amount": 8253,
+    "reward": 691
+  },
+  {
+    "userAddress": "0xF0334a8FC6B191f8c2281ED8c17d7e3679D254eC",
+    "amount": 5459,
+    "reward": 269
+  },
+  {
+    "userAddress": "0xf141A8970c606e74Cb49dbe9F1b2dB4bd992E146",
+    "amount": 9473,
+    "reward": 406
+  },
+  {
+    "userAddress": "0x1a3dE5262584A0Ada9cB3E4766bfBE9561F8CA33",
+    "amount": 8627,
+    "reward": 276
+  },
+  {
+    "userAddress": "0x0938319C74D148DB3Ff68f47C196495c7a41E40F",
+    "amount": 7396,
+    "reward": 922
+  },
+  {
+    "userAddress": "0xA72627535578EE6b3E3ad4ED749F66c3382c7279",
+    "amount": 242,
+    "reward": 984
+  },
+  {
+    "userAddress": "0x858BE5f231428159e657293b6f5B351A79298F4E",
+    "amount": 9251,
+    "reward": 641
+  },
+  {
+    "userAddress": "0x698f000A56f3a39885324D3b0bB893194E9c0f06",
+    "amount": 2366,
+    "reward": 447
+  },
+  {
+    "userAddress": "0x4C7e711bF69930a1ae457dDf9996B2054F93a510",
+    "amount": 5651,
+    "reward": 83
+  },
+  {
+    "userAddress": "0xdE85dC431fed22B5fa2B1c4e72EcbB9243d8B972",
+    "amount": 5045,
+    "reward": 377
+  },
+  {
+    "userAddress": "0x4E0d522a7724E33F1B68f4F2933b831579eeb93b",
+    "amount": 7377,
+    "reward": 46
+  },
+  {
+    "userAddress": "0x00EE9571ced29aD084Da8c942e60E59a684e9991",
+    "amount": 6295,
+    "reward": 473
+  },
+  {
+    "userAddress": "0xfe4312d6c2ABb92D45c62882BC153Ad464C03e17",
+    "amount": 6677,
+    "reward": 270
+  },
+  {
+    "userAddress": "0xcFD098c206C5a8a30040f6dbc7Efb4a9F6f9B836",
+    "amount": 6943,
+    "reward": 177
+  },
+  {
+    "userAddress": "0xb898aAf5088607b333754Ad69c05Aab18c5Dfb04",
+    "amount": 43,
+    "reward": 684
+  },
+  {
+    "userAddress": "0x8C73663A9A2C138675Eef5e39Ff210e3948E1d43",
+    "amount": 9910,
+    "reward": 962
+  },
+  {
+    "userAddress": "0x06ea9086EA0B32e298AA5654661EaDE443C880F8",
+    "amount": 6844,
+    "reward": 799
+  },
+  {
+    "userAddress": "0x67D494424a3691FfCc9c459820B263A8F23Cb23d",
+    "amount": 1519,
+    "reward": 610
+  },
+  {
+    "userAddress": "0x654C615af952031c08c83612a402A9a704EB24ED",
+    "amount": 99,
+    "reward": 693
+  },
+  {
+    "userAddress": "0x6B6AEeaf9E32083fF67A8d8B892c6615995bcffc",
+    "amount": 7406,
+    "reward": 352
+  },
+  {
+    "userAddress": "0x462574935eF972180B78fF4A3652E7CbDf05D1B2",
+    "amount": 2345,
+    "reward": 874
+  },
+  {
+    "userAddress": "0xdB139a96e1351d295Ef6ae818C6d6De3386A7712",
+    "amount": 2909,
+    "reward": 898
+  },
+  {
+    "userAddress": "0x0E9986aD495b19c5d4b7bEcBA55E9E101541dFFb",
+    "amount": 7127,
+    "reward": 950
+  },
+  {
+    "userAddress": "0x66ae31542ecb10799E2Ba3731719071DAb5F2ad9",
+    "amount": 660,
+    "reward": 70
+  },
+  {
+    "userAddress": "0x1f318fB4B9c2FEB3cDeEA2125D5AdD84DBA1fC16",
+    "amount": 2065,
+    "reward": 200
+  },
+  {
+    "userAddress": "0x4560768E026F257e34601aa6314cb55f6E0A4886",
+    "amount": 8055,
+    "reward": 406
+  },
+  {
+    "userAddress": "0x7F69b2Bf114Bafc44EB81515B4F3d38a96156809",
+    "amount": 5966,
+    "reward": 884
+  },
+  {
+    "userAddress": "0xd85626DF9D28315Fc45f3e218FA2FF5e2d884a8D",
+    "amount": 6577,
+    "reward": 826
+  },
+  {
+    "userAddress": "0x9eF07c590d633c9f33AD532c2afa3d1c4DF0a657",
+    "amount": 9630,
+    "reward": 56
+  },
+  {
+    "userAddress": "0x7A45b5ed0813F81EFae55FEfF24075d7bFd6ccaa",
+    "amount": 3437,
+    "reward": 435
+  },
+  {
+    "userAddress": "0xe453BD44C3Add1392EE56280975F64E9A21Fb9A3",
+    "amount": 5571,
+    "reward": 697
+  },
+  {
+    "userAddress": "0x2f7067DDAFfD0Aa85b20cA4013d2e4c589Dfd2a7",
+    "amount": 8120,
+    "reward": 957
+  },
+  {
+    "userAddress": "0xcA9B10E364ABaBA5726642aF5Fb2325714833aA8",
+    "amount": 5328,
+    "reward": 385
+  },
+  {
+    "userAddress": "0x7ddaad3fB4bA8A4128de6A53B7b99CCC84cC47BF",
+    "amount": 4240,
+    "reward": 401
+  },
+  {
+    "userAddress": "0x95BF7cEf7b3245ce102E2CC9BcF0f659ec7D9d57",
+    "amount": 8140,
+    "reward": 436
+  },
+  {
+    "userAddress": "0x2C6a6cb6AD7a0c9c5249e823388e08c645B381b1",
+    "amount": 499,
+    "reward": 893
+  },
+  {
+    "userAddress": "0xAEC803104fdCEdF3618e2A872Bf111D4e160c3EE",
+    "amount": 4369,
+    "reward": 309
+  },
+  {
+    "userAddress": "0xe894eBa5ebe9446D2820e9b9ACAA3DC91f006CcA",
+    "amount": 6677,
+    "reward": 604
+  },
+  {
+    "userAddress": "0xd98A386E7d5f6c9469c9D01C14d78B0F81e24B58",
+    "amount": 6215,
+    "reward": 312
+  },
+  {
+    "userAddress": "0x596Fac7b0a21C06925801dB235B914C0d10E43FC",
+    "amount": 9802,
+    "reward": 621
+  },
+  {
+    "userAddress": "0xf5D2Bd2DadB74a1d9fdbE86DC5C0feA6aae68F0f",
+    "amount": 5040,
+    "reward": 456
+  },
+  {
+    "userAddress": "0x469B3e9B2eba9627F00f43BaAc1144E4Ea9E9f70",
+    "amount": 1617,
+    "reward": 854
+  },
+  {
+    "userAddress": "0x261CB64A47994c13AD39974CAC2cA6a958000a79",
+    "amount": 3690,
+    "reward": 651
+  },
+  {
+    "userAddress": "0x7f6Cf7f94Ba2363326B00C70Dc742191f490eB1b",
+    "amount": 4591,
+    "reward": 559
+  },
+  {
+    "userAddress": "0xA3C33a1eA185Df09809b8dCC2fE42A46bb20EEC2",
+    "amount": 770,
+    "reward": 130
+  },
+  {
+    "userAddress": "0x17220Bcc870e9C24010e1ABE18c5D8C809d2E6Fb",
+    "amount": 1547,
+    "reward": 457
+  },
+  {
+    "userAddress": "0x68ecff2F6Ead87dc4A4B917B02DdB24840c98Be2",
+    "amount": 9693,
+    "reward": 162
+  },
+  {
+    "userAddress": "0x4cDF485c27A4702CD3Bfe198cE38Eafa18A1a1DD",
+    "amount": 2949,
+    "reward": 526
+  },
+  {
+    "userAddress": "0xDA5A775e4F8515A191fFa588154F74290E62D180",
+    "amount": 4674,
+    "reward": 50
+  },
+  {
+    "userAddress": "0x348779954F68A24D1D4F2e876A3C842bfe69120F",
+    "amount": 3008,
+    "reward": 155
+  },
+  {
+    "userAddress": "0x2e41D7e77bc6d450172068202Fc18c77a67A9E10",
+    "amount": 4355,
+    "reward": 79
+  },
+  {
+    "userAddress": "0x66e22D85C931A563A292C6F5C20122E8D2eb9Ba2",
+    "amount": 1550,
+    "reward": 690
+  },
+  {
+    "userAddress": "0xa38a86AaB1988827429Af224a3360159224ec6E8",
+    "amount": 3738,
+    "reward": 714
+  },
+  {
+    "userAddress": "0xa1d34376700b190E8A61C61289d81389fC0d623D",
+    "amount": 2082,
+    "reward": 85
+  },
+  {
+    "userAddress": "0xcE0FBc4Bf18A645659d5ca50AaC078dD8b5fE475",
+    "amount": 6069,
+    "reward": 937
+  },
+  {
+    "userAddress": "0x7b6339F92f3f1Ec6a555DF94D1e80451301e412C",
+    "amount": 1124,
+    "reward": 38
+  },
+  {
+    "userAddress": "0x67F0C1c4dE354FE0d2ebc59936fD54F7dEE2E1Ec",
+    "amount": 1142,
+    "reward": 332
+  },
+  {
+    "userAddress": "0xADD70B8A21424DB8bff1Dd9d39F15b20B5138E53",
+    "amount": 1191,
+    "reward": 304
+  },
+  {
+    "userAddress": "0x7b34BF0bd6D5B4559356e1bAe2958BE427ADcAcD",
+    "amount": 3689,
+    "reward": 572
+  },
+  {
+    "userAddress": "0xa2219cA956975c99eBA01B2551e54267d0663f83",
+    "amount": 6857,
+    "reward": 367
+  },
+  {
+    "userAddress": "0x3B7AE2E7C4870c00d2D3cd4d7f6F3A8e2795d721",
+    "amount": 8582,
+    "reward": 941
+  },
+  {
+    "userAddress": "0xf627D0b81DfA7c7D7a70De24D7D49d33116722Eb",
+    "amount": 456,
+    "reward": 406
+  },
+  {
+    "userAddress": "0xFAe272bc3c321aE0D940951412638f50680Fff56",
+    "amount": 7089,
+    "reward": 647
+  }
+]
